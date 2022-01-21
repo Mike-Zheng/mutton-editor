@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="icons" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 96 96" style="enable-background:new 0 0 96 96;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#352C2C;}
+	.st1{fill:#EDE3E2;}
+	.st2{fill:#7F7575;}
+	.st3{fill:#A39A99;}
+</style>
+<g id="XMLID_4605_">
+	<g id="XMLID_4607_">
+		<path id="XMLID_4608_" class="st0" d="M70,74c0,3.3-2.7,6-6,6H32c-3.3,0-6-2.7-6-6V18c0-3.3,2.7-6,6-6h32c3.3,0,6,2.7,6,6V74z"/>
+		<path id="XMLID_4609_" class="st1" d="M68,74c0,2.2-1.8,4-4,4H32c-2.2,0-4-1.8-4-4V18c0-2.2,1.8-4,4-4h32c2.2,0,4,1.8,4,4V74z"/>
+		<g id="XMLID_4633_">
+			<rect id="XMLID_4635_" x="32" y="40" class="st0" width="12" height="2"/>
+			<rect id="XMLID_4634_" x="32" y="44" class="st0" width="14" height="2"/>
+		</g>
+		<path id="XMLID_4610_" class="st0" d="M36,6c-1.1,0-2,0.9-2,2v4h4V8C38,6.9,37.1,6,36,6z M36,9c-0.6,0-1-0.4-1-1c0-0.6,0.4-1,1-1
+			s1,0.4,1,1C37,8.6,36.6,9,36,9z"/>
+		<rect id="XMLID_4613_" x="28" y="18" class="st0" width="40" height="2"/>
+		<rect id="XMLID_4614_" x="28" y="72" class="st0" width="40" height="2"/>
+		<g id="XMLID_4624_">
+			<rect id="XMLID_4616_" x="47" y="80" class="st0" width="2" height="4"/>
+			<rect id="XMLID_4623_" x="46" y="82" class="st0" width="4" height="2"/>
+		</g>
+		<g id="XMLID_4629_">
+			<circle id="XMLID_4632_" class="st0" cx="48" cy="27" r="3"/>
+			<circle id="XMLID_4631_" class="st2" cx="48" cy="27" r="2"/>
+			<circle id="XMLID_4630_" class="st0" cx="48" cy="27" r="1"/>
+		</g>
+		<g id="XMLID_4638_">
+			<circle id="XMLID_4628_" class="st0" cx="30" cy="22" r="1"/>
+			<circle id="XMLID_4640_" class="st0" cx="34" cy="22" r="1"/>
+			<circle id="XMLID_4641_" class="st0" cx="38" cy="22" r="1"/>
+			<circle id="XMLID_4642_" class="st0" cx="42" cy="22" r="1"/>
+			<circle id="XMLID_4643_" class="st0" cx="46" cy="22" r="1"/>
+			<circle id="XMLID_4644_" class="st0" cx="50" cy="22" r="1"/>
+			<circle id="XMLID_4645_" class="st0" cx="54" cy="22" r="1"/>
+			<circle id="XMLID_4646_" class="st0" cx="58" cy="22" r="1"/>
+			<circle id="XMLID_4647_" class="st0" cx="62" cy="22" r="1"/>
+			<circle id="XMLID_4648_" class="st0" cx="66" cy="22" r="1"/>
+		</g>
+		<rect id="XMLID_4649_" x="42" y="17" class="st0" width="12" height="1"/>
+		<rect id="XMLID_4651_" x="42" y="74" class="st0" width="12" height="1"/>
+		<g id="XMLID_4625_">
+			<rect id="XMLID_4627_" x="43" y="4" class="st0" width="4" height="8"/>
+			<rect id="XMLID_4626_" x="42" y="4" class="st0" width="6" height="2"/>
+		</g>
+		<g id="XMLID_4652_">
+			<rect id="XMLID_4654_" x="61" y="6" class="st0" width="2" height="6"/>
+			<rect id="XMLID_4653_" x="60" y="6" class="st0" width="4" height="2"/>
+		</g>
+		<g id="XMLID_4650_">
+			<rect id="XMLID_4656_" x="53" y="8" class="st0" width="2" height="4"/>
+			<rect id="XMLID_4655_" x="52" y="8" class="st0" width="4" height="2"/>
+		</g>
+	</g>
+	<g id="XMLID_4615_">
+		<rect id="XMLID_4637_" x="31" y="62" class="st0" width="8" height="7"/>
+		<rect id="XMLID_4639_" x="57" y="62" class="st0" width="8" height="7"/>
+		<g id="XMLID_4617_">
+			<rect id="XMLID_4618_" x="32" y="62" class="st0" width="6" height="30"/>
+			<rect id="XMLID_4619_" x="34" y="64" class="st3" width="2" height="26"/>
+			<rect id="XMLID_4620_" x="31" y="90" class="st0" width="8" height="2"/>
+		</g>
+		<g id="XMLID_4621_">
+			<rect id="XMLID_4622_" x="58" y="62" class="st0" width="6" height="30"/>
+			<rect id="XMLID_4636_" x="60" y="64" class="st3" width="2" height="26"/>
+			<rect id="XMLID_4657_" x="57" y="90" class="st0" width="8" height="2"/>
+		</g>
+	</g>
+</g>
+</svg>

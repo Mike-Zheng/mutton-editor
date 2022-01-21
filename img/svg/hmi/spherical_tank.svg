@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="icons" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 96 96" style="enable-background:new 0 0 96 96;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#352C2C;}
+	.st1{fill:#898080;}
+	.st2{fill:#EDE3E2;}
+	.st3{fill:#B2ABAB;}
+	.st4{fill:#7F7575;}
+</style>
+<g id="XMLID_3999_">
+	<g id="XMLID_5616_">
+		<polygon id="XMLID_5624_" class="st0" points="18,92 18,87 21,84 25,84 28,87 28,92 		"/>
+		<rect id="XMLID_5623_" x="20" y="50" class="st0" width="6" height="38"/>
+		<rect id="XMLID_5622_" x="22" y="52" class="st1" width="2" height="34"/>
+		<polygon id="XMLID_5621_" class="st1" points="24,86 22,86 20,88 20,90 26,90 26,88 		"/>
+		<g id="XMLID_5618_">
+			<defs>
+				<rect id="XMLID_5619_" x="22" y="52" width="2" height="34"/>
+			</defs>
+			<clipPath id="XMLID_15_">
+				<use xlink:href="#XMLID_5619_"  style="overflow:visible;"/>
+			</clipPath>
+		</g>
+		<rect id="XMLID_5617_" x="20" y="88" class="st0" width="6" height="1"/>
+	</g>
+	<g id="XMLID_5607_">
+		<polygon id="XMLID_5615_" class="st0" points="78,92 78,87 75,84 71,84 68,87 68,92 		"/>
+		<rect id="XMLID_5614_" x="70" y="50" class="st0" width="6" height="38"/>
+		<rect id="XMLID_5613_" x="72" y="52" class="st1" width="2" height="34"/>
+		<polygon id="XMLID_5612_" class="st1" points="72,86 74,86 76,88 76,90 70,90 70,88 		"/>
+		<g id="XMLID_5609_">
+			<defs>
+				<rect id="XMLID_5610_" x="72" y="52" width="2" height="34"/>
+			</defs>
+			<clipPath id="XMLID_16_">
+				<use xlink:href="#XMLID_5610_"  style="overflow:visible;"/>
+			</clipPath>
+		</g>
+		<rect id="XMLID_5608_" x="70" y="88" class="st0" width="6" height="1"/>
+	</g>
+	<g id="XMLID_5591_">
+		<g id="XMLID_5600_">
+			<rect id="XMLID_5606_" x="56" y="78" class="st0" width="2" height="10"/>
+			<rect id="XMLID_5605_" x="60" y="78" class="st0" width="2" height="10"/>
+			<rect id="XMLID_5604_" x="58" y="82" class="st0" width="2" height="1"/>
+			<rect id="XMLID_5603_" x="58" y="84" class="st0" width="2" height="1"/>
+			<rect id="XMLID_5602_" x="58" y="86" class="st0" width="2" height="1"/>
+			<rect id="XMLID_5601_" x="58" y="80" class="st0" width="2" height="1"/>
+		</g>
+		<path id="XMLID_5599_" class="st0" d="M48,82c-18.7,0-34-15.3-34-34c0-18.7,15.3-34,34-34s34,15.3,34,34C82,66.7,66.7,82,48,82z"
+			/>
+		<circle id="XMLID_5598_" class="st2" cx="48" cy="48" r="32"/>
+		<g id="XMLID_5595_">
+			<rect id="XMLID_5597_" x="22" y="42" class="st0" width="8" height="2"/>
+			<rect id="XMLID_5596_" x="22" y="46" class="st0" width="12" height="2"/>
+		</g>
+		<g id="XMLID_5592_">
+			<path id="XMLID_5594_" class="st0" d="M63,52L63,52c-0.5,0-1-0.5-1-1v-2c0-0.5,0.5-1,1-1l0,0c0.5,0,1,0.5,1,1v2
+				C64,51.5,63.5,52,63,52z"/>
+			<path id="XMLID_5593_" class="st0" d="M67,52L67,52c-0.6,0-1-0.5-1-1v-2c0-0.5,0.4-1,1-1l0,0c0.6,0,1,0.5,1,1v2
+				C68,51.5,67.6,52,67,52z"/>
+		</g>
+	</g>
+	<g id="XMLID_4132_">
+		<rect id="XMLID_5590_" x="44" y="50" class="st0" width="8" height="38"/>
+		<polygon id="XMLID_5589_" class="st0" points="42,92 42,87 45,84 51,84 54,87 54,92 		"/>
+		<rect id="XMLID_5588_" x="46" y="52" class="st3" width="4" height="34"/>
+		<polygon id="XMLID_5587_" class="st3" points="50,86 46,86 44,88 44,90 52,90 52,88 		"/>
+		<rect id="XMLID_5586_" x="44" y="88" class="st1" width="8" height="2"/>
+		<path id="XMLID_5585_" class="st0" d="M53,52H43c-0.5,0-1-0.5-1-1l0,0c0-0.5,0.5-1,1-1h10c0.5,0,1,0.5,1,1l0,0
+			C54,51.5,53.5,52,53,52z"/>
+		<rect id="XMLID_5584_" x="46" y="58" class="st0" width="4" height="2"/>
+		<rect id="XMLID_5583_" x="44" y="88" class="st0" width="8" height="1"/>
+		<path id="XMLID_5582_" class="st0" d="M49,88c0,0.6-0.4,1-1,1l0,0c-0.6,0-1-0.4-1-1v-2c0-0.6,0.4-1,1-1l0,0c0.6,0,1,0.4,1,1V88z"
+			/>
+		<g id="XMLID_4134_">
+			<circle id="XMLID_5580_" class="st0" cx="46" cy="55" r="1"/>
+			<circle id="XMLID_4135_" class="st0" cx="50" cy="55" r="1"/>
+		</g>
+	</g>
+	<g id="XMLID_4112_">
+		<rect id="XMLID_4131_" x="26" y="16" class="st0" width="2" height="6"/>
+		<rect id="XMLID_4130_" x="24" y="10" class="st0" width="34" height="6"/>
+		<rect id="XMLID_4129_" x="26" y="12" class="st4" width="30" height="2"/>
+		<g id="XMLID_4115_">
+			<rect id="XMLID_4128_" x="26" y="6" class="st0" width="2" height="4"/>
+			<rect id="XMLID_4127_" x="30" y="6" class="st0" width="2" height="4"/>
+			<rect id="XMLID_4126_" x="34" y="6" class="st0" width="2" height="4"/>
+			<rect id="XMLID_4125_" x="38" y="6" class="st0" width="2" height="4"/>
+			<rect id="XMLID_4124_" x="42" y="6" class="st0" width="2" height="4"/>
+			<rect id="XMLID_4123_" x="46" y="6" class="st0" width="2" height="4"/>
+			<rect id="XMLID_4122_" x="50" y="6" class="st0" width="2" height="4"/>
+			<rect id="XMLID_4121_" x="54" y="6" class="st0" width="2" height="4"/>
+		</g>
+		<path id="XMLID_4114_" class="st0" d="M57,6H25c-0.5,0-1-0.4-1-1v0c0-0.5,0.4-1,1-1h32c0.5,0,1,0.4,1,1v0C58,5.6,57.5,6,57,6z"/>
+	</g>
+</g>
+</svg>
