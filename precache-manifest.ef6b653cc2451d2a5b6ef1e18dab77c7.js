@@ -4,10 +4,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/README.md"
   },
   {
-    "revision": "0ad87c868e10d5267336d8879b28fd4c",
-    "url": "/mutton-editor/img/app.png"
-  },
-  {
     "revision": "ee12abf411f03ac23e9ad2ca1afc0cb5",
     "url": "/mutton-editor/img/svg/bubble/dialog/dialog-01.svg"
   },
@@ -2176,7 +2172,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/svg/service/zoom-svgrepo-com.svg"
   },
   {
-    "revision": "719110f8b8033ca2ed8b819c05e4fdcb",
+    "revision": "0ad87c868e10d5267336d8879b28fd4c",
+    "url": "/mutton-editor/img/thumbnail.png"
+  },
+  {
+    "revision": "b9ab131f47c59c38cbc06343b40bf560",
     "url": "/mutton-editor/index.html"
   },
   {
