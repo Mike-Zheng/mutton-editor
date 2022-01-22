@@ -2176,7 +2176,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/thumbnail.png"
   },
   {
-    "revision": "1682685c3a7c5aeec1029b186ebe7147",
+    "revision": "57f5c50feb8517efab47f3d6b7d2f0ec",
     "url": "/mutton-editor/index.html"
   },
   {
@@ -2188,7 +2188,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/robots.txt"
   },
   {
-    "revision": "1e61e3fb2d1d7ee3cb05",
+    "revision": "0569f8d495001ebe5eaa",
     "url": "/mutton-editor/static/css/app.513e7aba.css"
   },
   {
@@ -2204,7 +2204,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/static/css/chunk-1855dc16.aba1cc9e.css"
   },
   {
-    "revision": "8f75579b8868d1b277bf",
+    "revision": "48dd9b16e234215c3549",
     "url": "/mutton-editor/static/css/chunk-1dc11098.9e1678bd.css"
   },
   {
@@ -2332,8 +2332,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/static/fonts/material-icons.d960b795.woff2"
   },
   {
-    "revision": "1e61e3fb2d1d7ee3cb05",
-    "url": "/mutton-editor/static/js/app.a1d25706.js"
+    "revision": "0569f8d495001ebe5eaa",
+    "url": "/mutton-editor/static/js/app.f74f9cb6.js"
   },
   {
     "revision": "b78ddbe165aa6fa36aa4",
@@ -2348,8 +2348,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/static/js/chunk-1855dc16.d19b3a68.js"
   },
   {
-    "revision": "8f75579b8868d1b277bf",
-    "url": "/mutton-editor/static/js/chunk-1dc11098.cd81de1a.js"
+    "revision": "48dd9b16e234215c3549",
+    "url": "/mutton-editor/static/js/chunk-1dc11098.b39b9f31.js"
   },
   {
     "revision": "17a9b9bd7108a62b85c9",
@@ -2428,7 +2428,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/static/js/chunk-libs.c3329f99.js"
   },
   {
-    "revision": "d5f3aa36ad9a33e5da8b",
-    "url": "/mutton-editor/static/js/runtime.c7de3797.js"
+    "revision": "18eab882e565bdc3bcde",
+    "url": "/mutton-editor/static/js/runtime.ecc14fa3.js"
   }
 ]);
