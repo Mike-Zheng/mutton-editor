@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "313c38930285bff533090aa8e02db95d",
+    "revision": "48c01a7cf4078a5ffed6662ab6255536",
     "url": "/mutton-editor/README.md"
   },
   {
@@ -148,55 +148,55 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/svg/bubble/dialog_black/dialog_black-18.svg"
   },
   {
-    "revision": "59b608d5fc62156ada49640763d6ce9f",
+    "revision": "a4b6107209c44944457682f89b87eb1a",
     "url": "/mutton-editor/img/svg/hmi/absoption_tower.svg"
   },
   {
-    "revision": "1a5aad8d8b06e7a59cc2d1b79b0abb09",
+    "revision": "35e0f0739672a7207fb891401ebd5d91",
     "url": "/mutton-editor/img/svg/hmi/air_stripper.svg"
   },
   {
-    "revision": "b5441edf42efeb9790351632640633ca",
+    "revision": "0be852659d2b632ccf4b7fead00052e5",
     "url": "/mutton-editor/img/svg/hmi/atomizer.svg"
   },
   {
-    "revision": "742ea0b7f19edf7e3dc9e75d68eb07c3",
+    "revision": "1f10603fc4f5373193e78372c8ffea4a",
     "url": "/mutton-editor/img/svg/hmi/baffle_crystalizer.svg"
   },
   {
-    "revision": "36a281566da9844d06f7b96ec98c1f24",
+    "revision": "5ff3dcf70473d04aac2673f64fd351a5",
     "url": "/mutton-editor/img/svg/hmi/chemical_mixing_tank.svg"
   },
   {
-    "revision": "cdf97bd272b0ca27a39387e75664b6bb",
+    "revision": "09cac7815b5942fd9a78eb5795cc7d54",
     "url": "/mutton-editor/img/svg/hmi/chiller.svg"
   },
   {
-    "revision": "5486845cd83d1f2cb7b7f259f4c24b7a",
+    "revision": "12b93595e3c7adf495abb46b65c747be",
     "url": "/mutton-editor/img/svg/hmi/colloid_mill_2.svg"
   },
   {
-    "revision": "02b45bb1f89cf94018a020c5631c0d02",
+    "revision": "c6a038fb70dbd9e5c0b983c24585c0af",
     "url": "/mutton-editor/img/svg/hmi/crude_unit.svg"
   },
   {
-    "revision": "0c5c43b872dbef3f1bcb185c66dcc889",
+    "revision": "96e80edf80aa9d8308ef0d879765be66",
     "url": "/mutton-editor/img/svg/hmi/cyclone_separator.svg"
   },
   {
-    "revision": "f2ac43f7d58ff4efe73285469a5b4abb",
+    "revision": "b6b9cbacb99ad9861af9eb71f3f2ae6c",
     "url": "/mutton-editor/img/svg/hmi/deoxygenize.svg"
   },
   {
-    "revision": "95a6687d9b225195af9230ad8e749416",
+    "revision": "e9a5cbf429f726735cba1374d66ef63b",
     "url": "/mutton-editor/img/svg/hmi/fermentation_tower.svg"
   },
   {
-    "revision": "3e110e66f3e844128df72ea0afd64853",
+    "revision": "3a7150d74ba9b5d9fff5e0aee7ea08f3",
     "url": "/mutton-editor/img/svg/hmi/food_grade_inline_mixer.svg"
   },
   {
-    "revision": "dd320797395b3d28e6155f9934fae211",
+    "revision": "2a51df47a9ff1ffdd74afa44d02725c3",
     "url": "/mutton-editor/img/svg/hmi/food_processor.svg"
   },
   {
@@ -204,11 +204,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/svg/hmi/gauge.svg"
   },
   {
-    "revision": "14f6c48829bc81cec6564b39fb7ef994",
+    "revision": "56ae21710d3bab2dda7a2096c8201e0d",
     "url": "/mutton-editor/img/svg/hmi/grain_silo_3.svg"
   },
   {
-    "revision": "19721e56e97b534ceacfce63c3ed0dfc",
+    "revision": "311d496551e25926ba607897d2858fc6",
     "url": "/mutton-editor/img/svg/hmi/gravity_filter.svg"
   },
   {
@@ -216,11 +216,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/svg/hmi/plc.svg"
   },
   {
-    "revision": "dcf50cc80ca8437b4feaf2d35a4e68dc",
+    "revision": "a5420f7fe99c6ae3e1eb413ce28687bf",
     "url": "/mutton-editor/img/svg/hmi/pressure_vessel.svg"
   },
   {
-    "revision": "7a98c1ed68a3329210481c3cfd6fbf70",
+    "revision": "24329fb0863ee39d00576248f02eb2c5",
     "url": "/mutton-editor/img/svg/hmi/spherical_tank.svg"
   },
   {
@@ -588,23 +588,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/svg/machinery/040-machinery.svg"
   },
   {
-    "revision": "06445a0d770da1d894c0ec2094f9e944",
+    "revision": "14a22240dbe301789fd0656fd42d2af2",
     "url": "/mutton-editor/img/svg/service/acast-svgrepo-com.svg"
   },
   {
-    "revision": "f7b658ccfb714d8706b73bc029c0b62d",
+    "revision": "870dcbc6ce19a0a3a891f9490afec151",
     "url": "/mutton-editor/img/svg/service/access-svgrepo-com.svg"
   },
   {
-    "revision": "5e6b3c90e8f7338c7256eabe000ff417",
+    "revision": "a032405e8532eb91e0bc3b925ce5dc5a",
     "url": "/mutton-editor/img/svg/service/adobe-svgrepo-com.svg"
   },
   {
-    "revision": "1797a5ac303127ccd2b67f8cec906d7b",
+    "revision": "67b5079ec311e1eb70f901be92de44fd",
     "url": "/mutton-editor/img/svg/service/airbnb-svgrepo-com.svg"
   },
   {
-    "revision": "9ab808cace96b7a07d18c369443d0b5a",
+    "revision": "6ae950fe272ba2e690e6eaa9a7a0c9f3",
     "url": "/mutton-editor/img/svg/service/amazon-alexa-svgrepo-com.svg"
   },
   {
@@ -612,91 +612,91 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/svg/service/amazon-eks-svgrepo-com.svg"
   },
   {
-    "revision": "2ddfdbf499fdeb4026094096b93a0198",
+    "revision": "58a5c8e01b5ecea23d8fd9ab09065bd7",
     "url": "/mutton-editor/img/svg/service/amazon-s3-svgrepo-com.svg"
   },
   {
-    "revision": "d357736d65ebf95f0c2e493e6eb624c2",
+    "revision": "d9df380365e0abfdc254dc73c5257bf5",
     "url": "/mutton-editor/img/svg/service/amazon-svgrepo-com.svg"
   },
   {
-    "revision": "c8f087653b567b880c26e6261b5fc071",
+    "revision": "218f3ebbee753e4847c0965df2f659c6",
     "url": "/mutton-editor/img/svg/service/amberframework-svgrepo-com.svg"
   },
   {
-    "revision": "24e4669da31ce12dbfa9867179d21a78",
+    "revision": "0133287740db8dfd21f172ffef441020",
     "url": "/mutton-editor/img/svg/service/andotp-svgrepo-com.svg"
   },
   {
-    "revision": "998d1b91980d7860e2b1f05a30c813bd",
+    "revision": "31d614233db939f826145c19fb0a05c6",
     "url": "/mutton-editor/img/svg/service/android-svgrepo-com.svg"
   },
   {
-    "revision": "3971e64e9bf230614a78d3db44499295",
+    "revision": "56ecd1e8f4d649d6e8aa53e21bceaf69",
     "url": "/mutton-editor/img/svg/service/angellist-svgrepo-com.svg"
   },
   {
-    "revision": "ec3414c096b0a19e4b51b741493fdd15",
+    "revision": "317c9d6113d70fee7d656e348091f6ac",
     "url": "/mutton-editor/img/svg/service/angular-svgrepo-com.svg"
   },
   {
-    "revision": "cfff348c32f9f5fe2d159880bad8ffec",
+    "revision": "84a72e1e042577c20515cbd7863fca1d",
     "url": "/mutton-editor/img/svg/service/ansible-svgrepo-com.svg"
   },
   {
-    "revision": "c6852c9320310c8de116d74731c43af9",
+    "revision": "c1daf2ce4e8f5dc5d828a2b6bfcd1158",
     "url": "/mutton-editor/img/svg/service/apereo-svgrepo-com.svg"
   },
   {
-    "revision": "e66863d0f3a0182305b780d180d2ef5b",
+    "revision": "f60166504e31a8d9b53737aab0080cf4",
     "url": "/mutton-editor/img/svg/service/apple-music-svgrepo-com.svg"
   },
   {
-    "revision": "4750369fcb64b88838b3735105739b17",
+    "revision": "1c167e6536380be5ea8a13ea16e9c5a2",
     "url": "/mutton-editor/img/svg/service/apple-svgrepo-com.svg"
   },
   {
-    "revision": "4eba530bc16df3789755767b370e8128",
+    "revision": "bbeaab0c033545a6a7f42bdbcb072ea5",
     "url": "/mutton-editor/img/svg/service/arch-linux-svgrepo-com.svg"
   },
   {
-    "revision": "00f74526600780e6565181a79040c29f",
+    "revision": "2113d0b49499c3a17eef858f859b25a6",
     "url": "/mutton-editor/img/svg/service/asklepian-svgrepo-com.svg"
   },
   {
-    "revision": "601646b5878a54e31514756fa150f1d7",
+    "revision": "e8c7a6ba52dc3057e7ecf941f71802fb",
     "url": "/mutton-editor/img/svg/service/auth0-svgrepo-com.svg"
   },
   {
-    "revision": "e63ec0c5660dd36c7271dd186db5a6b5",
+    "revision": "7c769fcf5768c1ece76dc0b4b3db011a",
     "url": "/mutton-editor/img/svg/service/authy-svgrepo-com.svg"
   },
   {
-    "revision": "8bb8a1a953cad0f625bfa3c28057fe6e",
+    "revision": "3fba843ad0806c9135e80d5404d416ce",
     "url": "/mutton-editor/img/svg/service/aws-svgrepo-com.svg"
   },
   {
-    "revision": "bcfed2f707413487da648fd77e52ebd8",
+    "revision": "42fbc57e989c3b91ef621cebf6288c7b",
     "url": "/mutton-editor/img/svg/service/baaz-communication-interaction-chat-network-internet-svgrepo-com.svg"
   },
   {
-    "revision": "1278df4beb1f1f04a1b741a776b2c304",
+    "revision": "2f03516f6a7dc129d6ca1c469088d328",
     "url": "/mutton-editor/img/svg/service/backbone-svgrepo-com.svg"
   },
   {
-    "revision": "4a3219a4a23aacdf1ceafaab2ecbd602",
+    "revision": "789a5175c4349f1822ec28efc783f98c",
     "url": "/mutton-editor/img/svg/service/badoo-communication-network-conversation-connection-internet-svgrepo-com.svg"
   },
   {
-    "revision": "c6421f426cde0d068be0ed36eb6d59f6",
+    "revision": "0ba639a70234c26a58755f3c2cee7b2a",
     "url": "/mutton-editor/img/svg/service/badoo-svgrepo-com.svg"
   },
   {
-    "revision": "ec060e8239e32747288bfcafe9f35073",
+    "revision": "76c20847bdd74f8ed3f2184c23b06117",
     "url": "/mutton-editor/img/svg/service/baidu-svgrepo-com.svg"
   },
   {
-    "revision": "34e9f8157ef509a61f20c92f88791277",
+    "revision": "13d4ed2bac6add35be6d9cec8d1560fe",
     "url": "/mutton-editor/img/svg/service/bandcamp-svgrepo-com.svg"
   },
   {
@@ -704,55 +704,55 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/svg/service/bash-svgrepo-com.svg"
   },
   {
-    "revision": "345c670c35c4ad8f44942765416034e0",
+    "revision": "e308822a012858880c2ac60274e7bc7c",
     "url": "/mutton-editor/img/svg/service/behance-network-communication-connection-interaction-conversation-svgrepo-com.svg"
   },
   {
-    "revision": "72bdb0a124b1593129f648bb2101b1d5",
+    "revision": "ca01f2750e68c316fb4227bcf5276854",
     "url": "/mutton-editor/img/svg/service/behance-svgrepo-com.svg"
   },
   {
-    "revision": "0cff7ad66c7f3969bb7db3cb3609eb36",
+    "revision": "385f7fd41b0b581e68e2a6eae026cabc",
     "url": "/mutton-editor/img/svg/service/bing-svgrepo-com.svg"
   },
   {
-    "revision": "3c8dbef1e8b9ca48e001c98b248908c9",
+    "revision": "d5b17223ea40bdbd156def9edc2fbe3c",
     "url": "/mutton-editor/img/svg/service/bitbucket-svgrepo-com.svg"
   },
   {
-    "revision": "473aaf4df04951112204ac9422c46917",
+    "revision": "bb5db7985fc7bd2eab50aa3713ba0bc1",
     "url": "/mutton-editor/img/svg/service/bitcoin-svgrepo-com.svg"
   },
   {
-    "revision": "be63975a4624ce8731477c7e7ddd4cae",
+    "revision": "e40f9e0c415c39e9c5fa5a13dc694035",
     "url": "/mutton-editor/img/svg/service/bitwarden-svgrepo-com.svg"
   },
   {
-    "revision": "81e22ac6af3aa387d8965817bdc51341",
+    "revision": "9a1bfb6b3d7e8ffe8614e4583d41ee87",
     "url": "/mutton-editor/img/svg/service/blogger-online-seo-communication-message-svgrepo-com.svg"
   },
   {
-    "revision": "10364c4fea087bcdc7fdf66516a62bf0",
+    "revision": "86757a79aa3536fa5b62b0279542af15",
     "url": "/mutton-editor/img/svg/service/blogger-svgrepo-com.svg"
   },
   {
-    "revision": "1b70f9baa80df3b9e7e9c30666d017ae",
+    "revision": "2ee817fb4a0b5f5714af306d9e7d5272",
     "url": "/mutton-editor/img/svg/service/bluetooth-svgrepo-com.svg"
   },
   {
-    "revision": "8ad29ef53529868716611b9764928ac1",
+    "revision": "1b100496915967f40133e1a58975e842",
     "url": "/mutton-editor/img/svg/service/briar-svgrepo-com.svg"
   },
   {
-    "revision": "9230ca489229b71722530eb926eeedf7",
+    "revision": "896fecd924b76ee87df8f30b11a2fedd",
     "url": "/mutton-editor/img/svg/service/buffer-svgrepo-com.svg"
   },
   {
-    "revision": "bc301adb215b74a15192a4c8810eb877",
+    "revision": "c7bd1d89f0f0a82cc2a82ddcc807d7f2",
     "url": "/mutton-editor/img/svg/service/bugcrowd-svgrepo-com.svg"
   },
   {
-    "revision": "53b0a1efb794a49712b6c6f5ff629b34",
+    "revision": "5fc599d02632a3776912b983cce05083",
     "url": "/mutton-editor/img/svg/service/bumble-network-communication-conversation-internet-svgrepo-com.svg"
   },
   {
@@ -760,23 +760,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/svg/service/c-plus-plus-svgrepo-com.svg"
   },
   {
-    "revision": "aa3dd698d222a91088800b300ff428e3",
+    "revision": "54734314a03434ec64cb8d95513e752c",
     "url": "/mutton-editor/img/svg/service/caffeine-communication-interaction-internet-connection-svgrepo-com.svg"
   },
   {
-    "revision": "1392539e55e559ab1650607b83b3bd0c",
+    "revision": "a7eca6ee0c7b9bee9e79be991145f23b",
     "url": "/mutton-editor/img/svg/service/calendar-svgrepo-com.svg"
   },
   {
-    "revision": "df7824c96141fcb3fc31bea48069bb38",
+    "revision": "7ecce690dc9b7fa888ac049c437ed37e",
     "url": "/mutton-editor/img/svg/service/centos-svgrepo-com.svg"
   },
   {
-    "revision": "d198dd109085d07e5b6aa50114627334",
+    "revision": "2a6fc0fbcd82d187c52bfbe5f7cbe92f",
     "url": "/mutton-editor/img/svg/service/chrome-svgrepo-com.svg"
   },
   {
-    "revision": "9361345df3407b36b616fe81e99d1317",
+    "revision": "a97cf35cb9d1458435ccce9feeabe314",
     "url": "/mutton-editor/img/svg/service/chromium-svgrepo-com.svg"
   },
   {
@@ -784,35 +784,35 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/svg/service/clojure-svgrepo-com.svg"
   },
   {
-    "revision": "c48d21503e724026cc833e8214b0c690",
+    "revision": "ff54c6536fdefcf392a783770b837294",
     "url": "/mutton-editor/img/svg/service/cloudflare-svgrepo-com.svg"
   },
   {
-    "revision": "5399aaa8c540536f8cd368c358d75737",
+    "revision": "37dbdc5ab36768445c377a45d8d85dbc",
     "url": "/mutton-editor/img/svg/service/club-house-communication-club-house-network-svgrepo-com.svg"
   },
   {
-    "revision": "24ab7a07f039e58b650402053d0a6570",
+    "revision": "5c0909acc8cb42ded4384573a924b7b7",
     "url": "/mutton-editor/img/svg/service/codeberg-svgrepo-com.svg"
   },
   {
-    "revision": "8a6bcfc3ed27e193bb3407a65757351b",
+    "revision": "c37cb4ed923a41c80cd827fe16b8953c",
     "url": "/mutton-editor/img/svg/service/codepen-svgrepo-com.svg"
   },
   {
-    "revision": "33f68221156f2756d5ef5f3769206c57",
+    "revision": "a120ebbaba83ad71ef3b7442d8b776dc",
     "url": "/mutton-editor/img/svg/service/coffeescript-svgrepo-com.svg"
   },
   {
-    "revision": "26edf94956dda62ae4323e7be3bd53b3",
+    "revision": "f49d8eac144f6806f5f43cb39bc3f86c",
     "url": "/mutton-editor/img/svg/service/coil-svgrepo-com.svg"
   },
   {
-    "revision": "6da3690278a22051e892db2bf318225e",
+    "revision": "dba924a26ecd558032bcc4724765dd26",
     "url": "/mutton-editor/img/svg/service/coinpot-svgrepo-com.svg"
   },
   {
-    "revision": "3223063b924e134ec6e1cc769efc5ae3",
+    "revision": "a2493387934aa37eac8b9542d761e145",
     "url": "/mutton-editor/img/svg/service/colaboratory-svgrepo-com.svg"
   },
   {
@@ -820,11 +820,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/svg/service/composer-svgrepo-com.svg"
   },
   {
-    "revision": "87ee0d05fb9a054cf7eed0e2ca86c055",
+    "revision": "94b9aa7e86443b2f3cb2df4a349f3b26",
     "url": "/mutton-editor/img/svg/service/cplusplus-svgrepo-com.svg"
   },
   {
-    "revision": "4f4b74f07517f0aacee0208ac4f394eb",
+    "revision": "348ca5be215ef8d115fab05aaffbf23f",
     "url": "/mutton-editor/img/svg/service/crunchyroll-network-connection-communication-interaction-svgrepo-com.svg"
   },
   {
@@ -832,7 +832,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/svg/service/crystal-svgrepo-com.svg"
   },
   {
-    "revision": "bede966d53ba13721112ef341be6c62f",
+    "revision": "d830ed909b82958235d4602a622b4067",
     "url": "/mutton-editor/img/svg/service/css3-svgrepo-com.svg"
   },
   {
@@ -840,47 +840,47 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/svg/service/dart-svgrepo-com.svg"
   },
   {
-    "revision": "3b7306eecead964cef8089c9a276deb1",
+    "revision": "c5857f4c7461880fb0ac3ebeebbec8f4",
     "url": "/mutton-editor/img/svg/service/datacamp-svgrepo-com.svg"
   },
   {
-    "revision": "1d67eda193cf13d9d8648ac636f97c22",
+    "revision": "f4163634dda46fab1fa50d533e921b35",
     "url": "/mutton-editor/img/svg/service/debian-svgrepo-com.svg"
   },
   {
-    "revision": "082983599e42782333ba8062e09f5b93",
+    "revision": "4260d018d0f8c914949134daba756bc2",
     "url": "/mutton-editor/img/svg/service/deezer-svgrepo-com.svg"
   },
   {
-    "revision": "4cbd20c7b5a1766670d80f8dabc3ce39",
+    "revision": "a12fc22933eb442ba1e0b89281f1c3e2",
     "url": "/mutton-editor/img/svg/service/delicious-svgrepo-com.svg"
   },
   {
-    "revision": "d7637704d90f61041f749dc68bddbc24",
+    "revision": "9645fb023c6ac010c893f5ea74ac709a",
     "url": "/mutton-editor/img/svg/service/dev-to-svgrepo-com.svg"
   },
   {
-    "revision": "7547e7b8bb79ebcc4237c809fbca89d1",
+    "revision": "fad717ba6d75e1429df85dade56fd1c9",
     "url": "/mutton-editor/img/svg/service/deviantart-communication-conversation-connection-interaction-network-svgrepo-com.svg"
   },
   {
-    "revision": "bb7431836c4e847cff5e7d93e24d775f",
+    "revision": "97bf2a566d866cdf2351f9da2b4fb49c",
     "url": "/mutton-editor/img/svg/service/digidentity-svgrepo-com.svg"
   },
   {
-    "revision": "4d817f1cfdcd04ad4dd4af66e8dbfddd",
+    "revision": "2e4dc1f27e76701f42dc001659925010",
     "url": "/mutton-editor/img/svg/service/digitalocean-svgrepo-com.svg"
   },
   {
-    "revision": "444b1a21e727f8373e970993ed314e98",
+    "revision": "7781a4078430786f2e13fe203c0377c7",
     "url": "/mutton-editor/img/svg/service/discord-communication-interaction-message-network-svgrepo-com.svg"
   },
   {
-    "revision": "3fd729a3cc4726ec11319eaf8aa9a3d2",
+    "revision": "5d16f673b6af4921f092ba6d4c8a5113",
     "url": "/mutton-editor/img/svg/service/discord-svgrepo-com.svg"
   },
   {
-    "revision": "944fbadc23401942e73610d4a765e996",
+    "revision": "11194df1c66ea96709649fa08d689a6d",
     "url": "/mutton-editor/img/svg/service/disqus-svgrepo-com.svg"
   },
   {
@@ -888,7 +888,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/svg/service/django-svgrepo-com.svg"
   },
   {
-    "revision": "a8415c1d42bfaa69312cf82f5def2f95",
+    "revision": "72bbd0c09596eb2aeb4a3ab0fc8b76d2",
     "url": "/mutton-editor/img/svg/service/djangoproject-svgrepo-com.svg"
   },
   {
@@ -900,51 +900,51 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/svg/service/dotnet-svgrepo-com.svg"
   },
   {
-    "revision": "226d8340830ae6c6b4c0ab17f6739cda",
+    "revision": "6ff67a0d8f64b6d31682f00421d3e7e6",
     "url": "/mutton-editor/img/svg/service/dribbble-svgrepo-com.svg"
   },
   {
-    "revision": "becbcdee62ba51bd65ec3820397a17ff",
+    "revision": "17960f51c1e5e85c1cf64bc106c44668",
     "url": "/mutton-editor/img/svg/service/dribble-network-communication-internet-interaction-svgrepo-com.svg"
   },
   {
-    "revision": "cec63f668795a83f9a3723bfc3dc0f2f",
+    "revision": "ac04bb6f696e7d0ee259a08559dbffa5",
     "url": "/mutton-editor/img/svg/service/drone-svgrepo-com.svg"
   },
   {
-    "revision": "686388302d7f185f982dde0773bdb2bc",
+    "revision": "16bc415ce494ce7c0f76f62f839689dc",
     "url": "/mutton-editor/img/svg/service/dropbox-svgrepo-com.svg"
   },
   {
-    "revision": "6cf4d116fd2c8405b678be1f742a8205",
+    "revision": "2b2e69ce5298a9cec14e73a1041fede7",
     "url": "/mutton-editor/img/svg/service/drupal-svgrepo-com.svg"
   },
   {
-    "revision": "2d3ca6608e16e92b8f2adde5ccd5b25f",
+    "revision": "c31fc43d230f23b676cf8dc751077ca7",
     "url": "/mutton-editor/img/svg/service/duckduckgo-svgrepo-com.svg"
   },
   {
-    "revision": "350afb3eee986c0436986b39b05910eb",
+    "revision": "930cbfbefa03f0fbad8f237198fc9427",
     "url": "/mutton-editor/img/svg/service/ea-svgrepo-com.svg"
   },
   {
-    "revision": "055b2e1dc22c31ea6d98978ab57e7ea7",
+    "revision": "1c020862da32ff92f0f966250c7ea177",
     "url": "/mutton-editor/img/svg/service/ebay-svgrepo-com.svg"
   },
   {
-    "revision": "51ea4ad6ba00728ab64594f3d8d223d2",
+    "revision": "d94728bea3eca7f4ebb821068102ba29",
     "url": "/mutton-editor/img/svg/service/edge-svgrepo-com.svg"
   },
   {
-    "revision": "c8820ff7f4337cc6945ea21e5b649e39",
+    "revision": "374ac7c6d4e6964edf6d59b1dd2d3220",
     "url": "/mutton-editor/img/svg/service/elastic-svgrepo-com.svg"
   },
   {
-    "revision": "73e2ecb5bf245cc658241c069036044d",
+    "revision": "e67f8b5eef6e87af8bb4a7f5523ba0d8",
     "url": "/mutton-editor/img/svg/service/element-svgrepo-com.svg"
   },
   {
-    "revision": "5ed3ce2eedfd545ffa92bda2d420a076",
+    "revision": "e6d5768d5273305b32611e32f201a791",
     "url": "/mutton-editor/img/svg/service/elementaryos-svgrepo-com.svg"
   },
   {
@@ -952,47 +952,47 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/svg/service/elixir-svgrepo-com.svg"
   },
   {
-    "revision": "5b2bc444af87435b59c6482138af23ba",
+    "revision": "cc5d3a8c5f0d186b3259d2f3aaa33316",
     "url": "/mutton-editor/img/svg/service/ello-community-communication-conversation-internet-network-svgrepo-com.svg"
   },
   {
-    "revision": "4aac36ce48023d20d207ae23ae775ae7",
+    "revision": "dc9dfb119b2390b0ef0096393f275400",
     "url": "/mutton-editor/img/svg/service/email-svgrepo-com.svg"
   },
   {
-    "revision": "80f8e165d91ea8a62654b16d579a5909",
+    "revision": "840c3e4a8264bbabcb405ade27e2253a",
     "url": "/mutton-editor/img/svg/service/epub-svgrepo-com.svg"
   },
   {
-    "revision": "8369ac698a012444ac8bf49e71c273ae",
+    "revision": "5fca99b869f1ab97c6054c92c5a37449",
     "url": "/mutton-editor/img/svg/service/espressif-svgrepo-com.svg"
   },
   {
-    "revision": "1491fd6a155bfd48722f856e47b08867",
+    "revision": "404d27fd901664e9749a0a83dabdd28c",
     "url": "/mutton-editor/img/svg/service/ethereum-svgrepo-com.svg"
   },
   {
-    "revision": "f09285a5090be580b8a612c4bfe1fa75",
+    "revision": "a3c259cbc29701b84b6ce8cc618e3f35",
     "url": "/mutton-editor/img/svg/service/etsy-svgrepo-com.svg"
   },
   {
-    "revision": "91bd26175acac0b2ffdb6efac199f8ca",
+    "revision": "db038761401a6acebf486b8df6b7a069",
     "url": "/mutton-editor/img/svg/service/evernote-svgrepo-com.svg"
   },
   {
-    "revision": "4448ec2f1c5fbf00a710d5064bb81a86",
+    "revision": "b24d7ccbc44b16c4b95dc6bc916e5a33",
     "url": "/mutton-editor/img/svg/service/express-svgrepo-com.svg"
   },
   {
-    "revision": "0a2bd235f4e89a50e86cd92b756735b2",
+    "revision": "ddee4647c48dc37acc3adb000800e006",
     "url": "/mutton-editor/img/svg/service/facebook-messenger-social-media-network-communication-interaction-svgrepo-com.svg"
   },
   {
-    "revision": "61d77af370aab63c4e8125ad700ebe2c",
+    "revision": "d714c211ae6fe8b70545e41fed887f0c",
     "url": "/mutton-editor/img/svg/service/facebook-network-communication-internet-interaction-svgrepo-com.svg"
   },
   {
-    "revision": "db69789c7bd97bcd744a4bf275fb77d0",
+    "revision": "517c9a81a9c924b2db385ea2ee979b15",
     "url": "/mutton-editor/img/svg/service/facebook-svgrepo-com.svg"
   },
   {
@@ -1000,27 +1000,27 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/svg/service/fastlane-svgrepo-com.svg"
   },
   {
-    "revision": "d9307b2e825bfe04047584f0d36486d8",
+    "revision": "bc6d136845d07c4fe7488cafaaf746c3",
     "url": "/mutton-editor/img/svg/service/finder-svgrepo-com.svg"
   },
   {
-    "revision": "7164a05eb6e96045e76496765c917e70",
+    "revision": "aca4282ea84185e3bd4ec062abba88a8",
     "url": "/mutton-editor/img/svg/service/firefox-svgrepo-com.svg"
   },
   {
-    "revision": "79525eef0ddf17b174cea38314e889ed",
+    "revision": "8fa172225cf76688563a24e7b8c6eced",
     "url": "/mutton-editor/img/svg/service/flattr-svgrepo-com.svg"
   },
   {
-    "revision": "39864c9efabee4489cf070a8459c43b7",
+    "revision": "d2aafab7928735cf3e235a29fafc67be",
     "url": "/mutton-editor/img/svg/service/flickr-social-media-communication-conversation-internet-network-svgrepo-com.svg"
   },
   {
-    "revision": "43d7478cdce25770c4551bf7aa6e2cfc",
+    "revision": "1c54989996747d04c359f68d9df7b43e",
     "url": "/mutton-editor/img/svg/service/flickr-svgrepo-com.svg"
   },
   {
-    "revision": "be5ed4be555ff6cd3520fc2284b18f61",
+    "revision": "4515a29b3045342a0040d58750d2cb28",
     "url": "/mutton-editor/img/svg/service/flip-social-media-communication-conversation-message-svgrepo-com.svg"
   },
   {
@@ -1028,59 +1028,59 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/svg/service/flutter-svgrepo-com.svg"
   },
   {
-    "revision": "b36fb63436d05a8d778f2814ae9dfb14",
+    "revision": "6a742d69fab69f55bb08a949e28ee4a7",
     "url": "/mutton-editor/img/svg/service/foobar2000-svgrepo-com.svg"
   },
   {
-    "revision": "aa3d4c6255778386940b716eea3269ef",
+    "revision": "de49ee88402f160dffd619567a52f79f",
     "url": "/mutton-editor/img/svg/service/foursquare-network-communication-interaction-mobile-conversation-svgrepo-com.svg"
   },
   {
-    "revision": "c694165a2e5a1abd0404e80059553ab7",
+    "revision": "9a94b9007d2d79bb79aeb111d4840aa3",
     "url": "/mutton-editor/img/svg/service/freebsd-svgrepo-com.svg"
   },
   {
-    "revision": "d725a2660bdc0ec5cc853a5fc465b4e8",
+    "revision": "8480905aa8c420239e40cf072ea960fb",
     "url": "/mutton-editor/img/svg/service/freecodecamp-svgrepo-com.svg"
   },
   {
-    "revision": "8be9ba49a8f3ad9a04d5d230ccdef58a",
+    "revision": "9884db8faa18b390d74f5c8a25b7a22f",
     "url": "/mutton-editor/img/svg/service/friendica-svgrepo-com.svg"
   },
   {
-    "revision": "bc0adb7e85d85b3bd2aaade318960361",
+    "revision": "ac8b8d3dcaa79526d9cbd1cf5c9fb499",
     "url": "/mutton-editor/img/svg/service/fritz-svgrepo-com.svg"
   },
   {
-    "revision": "eba09bbf089f10f38ad64c792a14b6ea",
+    "revision": "356750aa07c9d4a5aafaa48bc3a798de",
     "url": "/mutton-editor/img/svg/service/gandi-svgrepo-com.svg"
   },
   {
-    "revision": "9d538b2ff807d65b2a483925a9846a60",
+    "revision": "6276429f1bb73208c263afd602a23f47",
     "url": "/mutton-editor/img/svg/service/gatehub-svgrepo-com.svg"
   },
   {
-    "revision": "8065d37494c21cbc1dc2dc3c16d4111d",
+    "revision": "7a1e42b3110524c6ca49c8674a9631b2",
     "url": "/mutton-editor/img/svg/service/ghost-svgrepo-com.svg"
   },
   {
-    "revision": "dcb6ce3654e07ae98295b650cc6daab3",
+    "revision": "35d307cfb7e53b32a33ee19e587d6b31",
     "url": "/mutton-editor/img/svg/service/git-svgrepo-com.svg"
   },
   {
-    "revision": "40cadc7c089f8548189f96da3e5a63f4",
+    "revision": "cc5e72e7ab9f6282e9e321e46610cf43",
     "url": "/mutton-editor/img/svg/service/gitbook-svgrepo-com.svg"
   },
   {
-    "revision": "bfa7ac8a55e922f0bac56fef77333e20",
+    "revision": "64f74a0ed95d06064ba4dc4c3823559e",
     "url": "/mutton-editor/img/svg/service/gitea-svgrepo-com.svg"
   },
   {
-    "revision": "2c2870f30b878f062aa23308eef8d57b",
+    "revision": "aac34ef4829cafdb628ab861044ea5a9",
     "url": "/mutton-editor/img/svg/service/github-svgrepo-com.svg"
   },
   {
-    "revision": "f2a9cb3495df67105830b313d652944d",
+    "revision": "8514fc9b7d8a5bcfe7f6e507cfb39cc6",
     "url": "/mutton-editor/img/svg/service/gitlab-svgrepo-com.svg"
   },
   {
@@ -1088,67 +1088,67 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/svg/service/gitpod-svgrepo-com.svg"
   },
   {
-    "revision": "4c202f40298e93d0cd32530c1f47e680",
+    "revision": "2bad45fd5a746f4a81162a048fadfb35",
     "url": "/mutton-editor/img/svg/service/glitch-svgrepo-com.svg"
   },
   {
-    "revision": "dd2f8cc4cdd26b5b2860ff7c2e0c904a",
+    "revision": "a18cd96d55c481853186b87bca1c7482",
     "url": "/mutton-editor/img/svg/service/gmail-old-svgrepo-com.svg"
   },
   {
-    "revision": "cb18a469d4fe5c0b1187d190c33c29c8",
+    "revision": "7ba27761356c5d5010c4681da3095d27",
     "url": "/mutton-editor/img/svg/service/gmail-svgrepo-com.svg"
   },
   {
-    "revision": "4455c22019e76f208727edd4c849301f",
+    "revision": "b0dc854a935eb9bd1b3c2ff15e3c2112",
     "url": "/mutton-editor/img/svg/service/go-logo-svgrepo-com.svg"
   },
   {
-    "revision": "ff693f25691cc18a84adb683c2b337f9",
+    "revision": "b0d3c3a56a013b85f820a257ecc557d1",
     "url": "/mutton-editor/img/svg/service/go-svgrepo-com.svg"
   },
   {
-    "revision": "1f8306897b8168bb24e6888f88c185fe",
+    "revision": "688e9fbe793344d194c9e9f12980204b",
     "url": "/mutton-editor/img/svg/service/gogcom-svgrepo-com.svg"
   },
   {
-    "revision": "4e749b7122552f4dcf72d3994a5ec014",
+    "revision": "9b0d8e4319f3978d27765395d9053910",
     "url": "/mutton-editor/img/svg/service/gojek-svgrepo-com.svg"
   },
   {
-    "revision": "0feec6bf78ec952a28982cf9ca4c628c",
+    "revision": "8e9f7023bc8fd88d48234de6714faacd",
     "url": "/mutton-editor/img/svg/service/gomicro-svgrepo-com.svg"
   },
   {
-    "revision": "6312372bd9f67cf848bfa77e01386075",
+    "revision": "64c66970f4cd368a8e09823f1c6bd0cf",
     "url": "/mutton-editor/img/svg/service/good-reads-communication-network-connection-interaction-svgrepo-com.svg"
   },
   {
-    "revision": "c5960dae424e66ff9e10a58734b953e4",
+    "revision": "b6b00d676e72b3987b36918686dd6db5",
     "url": "/mutton-editor/img/svg/service/good-wall-social-media-communication-svgrepo-com.svg"
   },
   {
-    "revision": "c25d0efa1e7ec457d64b7ae9e463c881",
+    "revision": "f66d37b6bfcbac4f2d0a8d683079948e",
     "url": "/mutton-editor/img/svg/service/goodreads-svgrepo-com.svg"
   },
   {
-    "revision": "b3ddfe0d34e1425e25416d1355562ac8",
+    "revision": "e7886a3137a4459b20f264252ee2d24e",
     "url": "/mutton-editor/img/svg/service/google-calendar-svgrepo-com.svg"
   },
   {
-    "revision": "4d8f47fe6e70a47fa400187785887b44",
+    "revision": "000fb5d61401ad5116f04eeb26bba57e",
     "url": "/mutton-editor/img/svg/service/google-collaborative-content-tools-svgrepo-com.svg"
   },
   {
-    "revision": "55f4bb79e9c43a158b8d52aa1654bdf3",
+    "revision": "ebd980e4868283b26474a0fa42bc212b",
     "url": "/mutton-editor/img/svg/service/google-docs-editors-svgrepo-com.svg"
   },
   {
-    "revision": "2bc125458d4121c2c0d6c61e2302d40b",
+    "revision": "0b0afc57123d11437b74f4c8b99aeeec",
     "url": "/mutton-editor/img/svg/service/google-drive-old-svgrepo-com.svg"
   },
   {
-    "revision": "f9167fb061e2bfe9f3d1752a132b41f6",
+    "revision": "3e83590a05b46f347e6e0f92b8cf4601",
     "url": "/mutton-editor/img/svg/service/google-drive-svgrepo-com.svg"
   },
   {
@@ -1156,43 +1156,43 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/svg/service/google-gke-svgrepo-com.svg"
   },
   {
-    "revision": "ed382f90c3e98c98ba91efa74264a040",
+    "revision": "90a883f78a867f5c302a751156c4e711",
     "url": "/mutton-editor/img/svg/service/google-mail-message-letter-communication-interaction-svgrepo-com.svg"
   },
   {
-    "revision": "35321dc8506fc96f040e30fed1d3d630",
+    "revision": "1068e176ab0d92646ad1ca6e37f40d33",
     "url": "/mutton-editor/img/svg/service/google-maps-old-svgrepo-com.svg"
   },
   {
-    "revision": "dbab5b34838afa317a1fc12750390fc0",
+    "revision": "57d8125723fe7255d4a1912d4c4cb795",
     "url": "/mutton-editor/img/svg/service/google-maps-svgrepo-com.svg"
   },
   {
-    "revision": "fe6faedf8f646bcd182bf331a715edaf",
+    "revision": "cc06d4a1a0e6f8956d93140d8af9bbec",
     "url": "/mutton-editor/img/svg/service/google-meet-meeting-communication-team-svgrepo-com.svg"
   },
   {
-    "revision": "ce51a1a1026f200248ac3b1144d551d9",
+    "revision": "966095b4dcceaf63647afd2353e9d773",
     "url": "/mutton-editor/img/svg/service/google-meet-svgrepo-com.svg"
   },
   {
-    "revision": "c90801812a8b5bb75251eb586cdef84c",
+    "revision": "e24d7d5ab43aadf21b17b2d43e6c325a",
     "url": "/mutton-editor/img/svg/service/google-play-svgrepo-com.svg"
   },
   {
-    "revision": "8ff7319218145ddb8ab62abf7eef702f",
+    "revision": "62f0aac1fb619fdf98adc9fff4f6106e",
     "url": "/mutton-editor/img/svg/service/google-plus-svgrepo-com.svg"
   },
   {
-    "revision": "0a15893a1352cd3e4d329f916567b5fd",
+    "revision": "5092bd40696ebfb772146d0b98984213",
     "url": "/mutton-editor/img/svg/service/google-podcasts-svgrepo-com.svg"
   },
   {
-    "revision": "6fbf299f40517270659487e53292c835",
+    "revision": "17d85e003b07f393856f7d45fb85ed44",
     "url": "/mutton-editor/img/svg/service/google-scholar-svgrepo-com.svg"
   },
   {
-    "revision": "5cf3790e2078d5bc995e5a24fe7a7dde",
+    "revision": "3326088540e4263e2828406deec27626",
     "url": "/mutton-editor/img/svg/service/google-svgrepo-com.svg"
   },
   {
@@ -1200,7 +1200,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/svg/service/gradle-svgrepo-com.svg"
   },
   {
-    "revision": "b81cff9275420cb55f7f5fd71566a238",
+    "revision": "eae71b3d7a77f00fc4946c34d4f211ad",
     "url": "/mutton-editor/img/svg/service/grafana-svgrepo-com.svg"
   },
   {
@@ -1208,19 +1208,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/svg/service/grails-svgrepo-com.svg"
   },
   {
-    "revision": "d000b6e33ffb65cac402f240e2c8b8a4",
+    "revision": "f4ec8daf471022a213d66bc65b58a121",
     "url": "/mutton-editor/img/svg/service/hackernews-svgrepo-com.svg"
   },
   {
-    "revision": "d26e80aa597feadfb2e99186482cc6cc",
+    "revision": "1217d66f9f21a80e15cb7d6337be4a12",
     "url": "/mutton-editor/img/svg/service/hackerone-svgrepo-com.svg"
   },
   {
-    "revision": "1132dcbf6e04f902d441ad230a267ceb",
+    "revision": "19e28fcaa310cf660d49a5a693c1923e",
     "url": "/mutton-editor/img/svg/service/haml-svgrepo-com.svg"
   },
   {
-    "revision": "b5e735bec3f123746e4bc32cd6293cfe",
+    "revision": "1fa0eb200cb16e237ff82dba951f850f",
     "url": "/mutton-editor/img/svg/service/heroku-svgrepo-com.svg"
   },
   {
@@ -1228,91 +1228,91 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/svg/service/hexo-svgrepo-com.svg"
   },
   {
-    "revision": "8e455f3995e5cb29d9f6a9f28c4d21e2",
+    "revision": "9073be8b7f1202ef812d297a5efddd7f",
     "url": "/mutton-editor/img/svg/service/homekit-svgrepo-com.svg"
   },
   {
-    "revision": "05d1231681940670bc17ad0c2be7b276",
+    "revision": "60d94ab5a0c4d2aff3e3216adf950eb3",
     "url": "/mutton-editor/img/svg/service/hootsuite-communication-chat-interaction-connection-conversation-svgrepo-com.svg"
   },
   {
-    "revision": "e5615befd5fbe92632149f94607693f8",
+    "revision": "1685aac8596550f9a360d5942415fd55",
     "url": "/mutton-editor/img/svg/service/house-party-social-media-communication-interaction-network-svgrepo-com.svg"
   },
   {
-    "revision": "98d934da5029c7c2ed8241a41ada3090",
+    "revision": "b8c0bb4c701f12557ba2013b8ab81cb3",
     "url": "/mutton-editor/img/svg/service/hp-svgrepo-com.svg"
   },
   {
-    "revision": "d63db51fd8a050478b2c5b5136cb94a3",
+    "revision": "27d9fb8eb5c2fab3143bad67938a6093",
     "url": "/mutton-editor/img/svg/service/html5-svgrepo-com.svg"
   },
   {
-    "revision": "f3ae7009c0b9b67c026ebe4d321200be",
+    "revision": "a52ea0f101ddc600123d236fc009637c",
     "url": "/mutton-editor/img/svg/service/hugo-svgrepo-com.svg"
   },
   {
-    "revision": "d00b3e848b7ca6f64e417286a40f1596",
+    "revision": "28878b088a786ac9b4e26f6ec5736755",
     "url": "/mutton-editor/img/svg/service/humblebundle-svgrepo-com.svg"
   },
   {
-    "revision": "a3aae15b58f7347d00479675594dceac",
+    "revision": "44a7317f78ed0e01a57620a3b8ba3e9f",
     "url": "/mutton-editor/img/svg/service/ibm-svgrepo-com.svg"
   },
   {
-    "revision": "494fe62f8b8ff5e8bc98cb5f562052a4",
+    "revision": "cd05a4a88c7b0009fd58ac30b90533ea",
     "url": "/mutton-editor/img/svg/service/iheartradio-svgrepo-com.svg"
   },
   {
-    "revision": "41c86dbae961bd97937ae0422f504f3f",
+    "revision": "f9dd57480ad7618dbddc9ad96a9afec6",
     "url": "/mutton-editor/img/svg/service/imdb-svgrepo-com.svg"
   },
   {
-    "revision": "a8ddf9d145df600c26d040fd89bfcd7f",
+    "revision": "60b9b16ac1c85e35b4d9c9aa9b52079f",
     "url": "/mutton-editor/img/svg/service/imgur-svgrepo-com.svg"
   },
   {
-    "revision": "4fbbd08997b1712ebd964a693e0f2d7d",
+    "revision": "ef76a71def1d0281328307bb5374dab5",
     "url": "/mutton-editor/img/svg/service/instagram-social-media-network-communication-interaction-connection-svgrepo-com.svg"
   },
   {
-    "revision": "30d26ac57d2b1eb8e79c436300ec65b3",
+    "revision": "9b76607feb62a2558e77123c77ea6495",
     "url": "/mutton-editor/img/svg/service/instagram-svgrepo-com.svg"
   },
   {
-    "revision": "5383fa68eca793259c738d034241beef",
+    "revision": "b985680893908978acabe4a3eb2dc927",
     "url": "/mutton-editor/img/svg/service/intel-svgrepo-com.svg"
   },
   {
-    "revision": "81dc471dddc707fc5c66619459496261",
+    "revision": "ffbf963a50a702992ba5ad8b62c1cb42",
     "url": "/mutton-editor/img/svg/service/intercom-svgrepo-com.svg"
   },
   {
-    "revision": "ddacd9fb29c69a2ce7bfdfa191b22064",
+    "revision": "054a85456c884269d7baa61dbee00523",
     "url": "/mutton-editor/img/svg/service/internet-archive-svgrepo-com.svg"
   },
   {
-    "revision": "32b2bb0d3fed7d5bad668ccebcdefe0b",
+    "revision": "0ecfc0723430975ae0175d9520897ecb",
     "url": "/mutton-editor/img/svg/service/italki-communication-interaction-message-network-connection-svgrepo-com.svg"
   },
   {
-    "revision": "bd48fb7d0cb8b2e9ac75db70d9ea59d8",
+    "revision": "c7c7ed687a1d6ce72c5cb130da3ff7a5",
     "url": "/mutton-editor/img/svg/service/itch-io-svgrepo-com.svg"
   },
   {
-    "revision": "f62d80e80749db596024e14834158f27",
+    "revision": "970599ceebe0ce775b2a91bfbdb3eafa",
     "url": "/mutton-editor/img/svg/service/itunes-podcasts-svgrepo-com.svg"
   },
   {
-    "revision": "5c050014086057bd6bf3d4f4bab8d684",
+    "revision": "8e7d55ce006a47d6aa835fa26cd89b2f",
     "url": "/mutton-editor/img/svg/service/jacobin-svgrepo-com.svg"
   },
   {
-    "revision": "f431def100e9eb26cfb97fd2941080fb",
+    "revision": "c6fea9e7a7f5c8b59269538dcf484fbc",
     "url": "/mutton-editor/img/svg/service/java-svgrepo-com.svg"
   },
   {
-    "revision": "d926d06e2ea57fe806d8abbc47dd22a2",
+    "revision": "ca14a35cdafa444f258146b02f6f61a2",
     "url": "/mutton-editor/img/svg/service/javascript-svgrepo-com.svg"
   },
   {
@@ -1320,7 +1320,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/svg/service/jekyll-svgrepo-com.svg"
   },
   {
-    "revision": "e165a3c340a523811c9c2bb623225ffc",
+    "revision": "9223fb61a94836c51e6684223a5603f9",
     "url": "/mutton-editor/img/svg/service/jellyfin-svgrepo-com.svg"
   },
   {
@@ -1328,7 +1328,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/svg/service/jira-svgrepo-com.svg"
   },
   {
-    "revision": "ae6c0d1941c64278ffda8a5a4ce7c2ab",
+    "revision": "b63474eeb52697dbe1bfd24becc233fc",
     "url": "/mutton-editor/img/svg/service/json-svgrepo-com.svg"
   },
   {
@@ -1336,47 +1336,47 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/svg/service/julia-svgrepo-com.svg"
   },
   {
-    "revision": "6ce48a149eaaa72ae5e3aaa12430ecd4",
+    "revision": "2e67db4507138ac6120a59fb79bb4469",
     "url": "/mutton-editor/img/svg/service/kaggle-svgrepo-com.svg"
   },
   {
-    "revision": "60d2b8b5a3bbe29670fc3deb6d49cc53",
+    "revision": "2f9b2291466f518dab4625f0faf2b07b",
     "url": "/mutton-editor/img/svg/service/kakao-talk-communication-interaction-connection-conversation-svgrepo-com.svg"
   },
   {
-    "revision": "c21ba91a078745cc88fa55968198bec7",
+    "revision": "0653b68af3c56e55f195886794234b65",
     "url": "/mutton-editor/img/svg/service/keepassdx-svgrepo-com.svg"
   },
   {
-    "revision": "801f93d00f906cb38a8445642188bfcf",
+    "revision": "a6b54a7743a80c0e7613a380d8b17aec",
     "url": "/mutton-editor/img/svg/service/kemal-svgrepo-com.svg"
   },
   {
-    "revision": "3d25ad066117cd63a4478228f77077c6",
+    "revision": "f344785a2816eb6fb9bb859ed4a7cfec",
     "url": "/mutton-editor/img/svg/service/keskonfai-svgrepo-com.svg"
   },
   {
-    "revision": "36ed792a8b9dfba00951efc85b848367",
+    "revision": "7e8bcf6bd3e955b92eb04caed10e6cde",
     "url": "/mutton-editor/img/svg/service/keybase-svgrepo-com.svg"
   },
   {
-    "revision": "c626990b21a2cedc8c01dd1dfe820b1f",
+    "revision": "ffb5d2360a93d75e8112c59cc471cd79",
     "url": "/mutton-editor/img/svg/service/kickstarter-svgrepo-com.svg"
   },
   {
-    "revision": "10beeb6162cd3e2a01dea7e56c2523e9",
+    "revision": "3806950fe13548859b8fdbd5c1678fca",
     "url": "/mutton-editor/img/svg/service/ko-fi-svgrepo-com.svg"
   },
   {
-    "revision": "0d11f0d9b4e154e4c5baa90ed110fe19",
+    "revision": "aa4334859389efcdaec262d22c86165f",
     "url": "/mutton-editor/img/svg/service/kodi-svgrepo-com.svg"
   },
   {
-    "revision": "c03f9beff1040f83c92774a122c3fa83",
+    "revision": "259e1fe6482620c0a95efa7f71588056",
     "url": "/mutton-editor/img/svg/service/kotlin-svgrepo-com.svg"
   },
   {
-    "revision": "139cf11ca0412ab7b2160ac61e84657c",
+    "revision": "34408f419063f57a9e1bcc65f679a791",
     "url": "/mutton-editor/img/svg/service/kuashiou-communication-interaction-chat-network-svgrepo-com.svg"
   },
   {
@@ -1388,7 +1388,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/svg/service/laravel-svgrepo-com.svg"
   },
   {
-    "revision": "8b971e2d8977a203ab6a831562e528ca",
+    "revision": "a53016232abb76858fe9b168ce47f41e",
     "url": "/mutton-editor/img/svg/service/lastpass-svgrepo-com.svg"
   },
   {
@@ -1396,75 +1396,75 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/svg/service/latex-svgrepo-com.svg"
   },
   {
-    "revision": "dc6e04612b8d25d48b8d3a6199101d06",
+    "revision": "853366d3cadfa3920d424424e30bca8a",
     "url": "/mutton-editor/img/svg/service/liberapay-svgrepo-com.svg"
   },
   {
-    "revision": "1a9db83b58e4cec43fe65146dca2fa5d",
+    "revision": "e2e903cc26455b0801848455f88baaa1",
     "url": "/mutton-editor/img/svg/service/line-social-media-communcation-network-connection-svgrepo-com.svg"
   },
   {
-    "revision": "ba3eed97fa1aecb4400bccf4476b5f9d",
+    "revision": "b482d08ce1518fe175cccbe3f71fe861",
     "url": "/mutton-editor/img/svg/service/line-svgrepo-com.svg"
   },
   {
-    "revision": "49d886574385aff556dc2d0856eb196c",
+    "revision": "753c043d1cef95dcb17a6753871e36e0",
     "url": "/mutton-editor/img/svg/service/linkedin-network-communication-connection-internet-online-svgrepo-com.svg"
   },
   {
-    "revision": "aa80ba203c147024c0d00b8378ccf0ea",
+    "revision": "d5f05f6ea6d5372ad7b79456d4f65b17",
     "url": "/mutton-editor/img/svg/service/linkedin-svgrepo-com.svg"
   },
   {
-    "revision": "f7da5d7e0beea8a68d324c8d81076882",
+    "revision": "87705a7e98d0367bf9866cdb472f04e2",
     "url": "/mutton-editor/img/svg/service/linux-mint-svgrepo-com.svg"
   },
   {
-    "revision": "4347c69d612865edbd0b69627fa910f0",
+    "revision": "45486f130404436a5aa4170d13bf74ab",
     "url": "/mutton-editor/img/svg/service/linux-svgrepo-com.svg"
   },
   {
-    "revision": "22e1fb7ef0b09263b48ab1cc925d94f1",
+    "revision": "b52753f2713d1efa4598efceadd35bc8",
     "url": "/mutton-editor/img/svg/service/lobsters-svgrepo-com.svg"
   },
   {
-    "revision": "95b99c44e25f36a39141a48a7fac13d0",
+    "revision": "b1bcecd2f0cc8375f5bc71ffcdbccb73",
     "url": "/mutton-editor/img/svg/service/lock-svgrepo-com.svg"
   },
   {
-    "revision": "0c204346e30911f6814709881f29d01c",
+    "revision": "58bef6948ee00a64949c38e4b5df5c9d",
     "url": "/mutton-editor/img/svg/service/luckyframework-svgrepo-com.svg"
   },
   {
-    "revision": "fc36b996d8181b21b219bd697e83b239",
+    "revision": "03e332113462729295fd01396fb92f59",
     "url": "/mutton-editor/img/svg/service/macos-svgrepo-com.svg"
   },
   {
-    "revision": "b842e2a58dd26e1a0d2fc79ab14d59c0",
+    "revision": "79086470565ea4de692e881be44101c8",
     "url": "/mutton-editor/img/svg/service/mail-svgrepo-com.svg"
   },
   {
-    "revision": "1b795d428e530bc92d80ee444de33d04",
+    "revision": "4c99356a9211f0b3da275a1c9a35de59",
     "url": "/mutton-editor/img/svg/service/mailchimp-svgrepo-com.svg"
   },
   {
-    "revision": "36dc9163af9a2587b1d29283ffe643d4",
+    "revision": "44d784790eab27c072ca5d44db77abda",
     "url": "/mutton-editor/img/svg/service/malt-svgrepo-com.svg"
   },
   {
-    "revision": "e61e77e356cab97e759c22f86291eeab",
+    "revision": "d999fb481665d2074224faba7c009c50",
     "url": "/mutton-editor/img/svg/service/markdown-svgrepo-com.svg"
   },
   {
-    "revision": "a41941a08774ae14ea4b9ac0a409b4a3",
+    "revision": "8eff6c9cad98473239b338b3a890b16c",
     "url": "/mutton-editor/img/svg/service/mastodon-svgrepo-com.svg"
   },
   {
-    "revision": "02bcb1e1a227cea5a6b8ce5c753aa4ce",
+    "revision": "03e565891f6e70d8052e20e455d9e567",
     "url": "/mutton-editor/img/svg/service/mattermost-logo-svgrepo-com.svg"
   },
   {
-    "revision": "38a3bde4615fc3ae72570d6bff2191f6",
+    "revision": "12b12862ffa90e5218a3748837448847",
     "url": "/mutton-editor/img/svg/service/mattermost-svgrepo-com.svg"
   },
   {
@@ -1472,39 +1472,39 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/svg/service/maven-svgrepo-com.svg"
   },
   {
-    "revision": "35fc32f6a7d3322a731e9f0e76ff9563",
+    "revision": "786f42327fbe7236e317334d18e752f0",
     "url": "/mutton-editor/img/svg/service/medium-communication-social-media-network-connection-svgrepo-com.svg"
   },
   {
-    "revision": "089b3ecdf6b700780fb2061d461f4d0e",
+    "revision": "cdfbca3e70150793ef890dce2962d9b0",
     "url": "/mutton-editor/img/svg/service/medium-svgrepo-com.svg"
   },
   {
-    "revision": "19d0c7cfd64ccc733318775f4cb6a056",
+    "revision": "8c3acb12f29fd53dc1ab51840e4fb88e",
     "url": "/mutton-editor/img/svg/service/meetup-svgrepo-com.svg"
   },
   {
-    "revision": "046c496f1a50aa3e69456765842fafa7",
+    "revision": "5a76a19ac0086a7c67f060cfe7005774",
     "url": "/mutton-editor/img/svg/service/messenger-svgrepo-com.svg"
   },
   {
-    "revision": "29abd6af503c0a95705efd06391a9456",
+    "revision": "8874b0cf9ca455ada3e91e12f5c6093c",
     "url": "/mutton-editor/img/svg/service/microformats-svgrepo-com.svg"
   },
   {
-    "revision": "1c9bfdd7e494f6905513a7a28bd15f28",
+    "revision": "fe51e2a04d05703af488412d1f86a532",
     "url": "/mutton-editor/img/svg/service/microsoft-svgrepo-com.svg"
   },
   {
-    "revision": "3fd689941a3faaeb84f51f554d94d26c",
+    "revision": "b38cf786941becf34b415f9ccccae47f",
     "url": "/mutton-editor/img/svg/service/microsoft-team-management-business-office-svgrepo-com.svg"
   },
   {
-    "revision": "b253fa3353da5754e45063427f071ccc",
+    "revision": "ae4b23fa9baf8065af6c5f6d69aaa7da",
     "url": "/mutton-editor/img/svg/service/middleman-svgrepo-com.svg"
   },
   {
-    "revision": "b5b073002aecf9c55e88945cb6ff26a8",
+    "revision": "1c0a947ef2de0a7ca85d01d06c2de51d",
     "url": "/mutton-editor/img/svg/service/minecraft-svgrepo-com.svg"
   },
   {
@@ -1512,15 +1512,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/svg/service/mono-svgrepo-com.svg"
   },
   {
-    "revision": "63153a47fff276431d7b721ba8d0ae8f",
+    "revision": "fe097fb2dd640efbeeb1abbd6ec280ce",
     "url": "/mutton-editor/img/svg/service/netlify-svgrepo-com.svg"
   },
   {
-    "revision": "d3900f9b04ed196ccbca0dd65607c7a1",
+    "revision": "3d0dc5a1a01f5873337d88afdbc561b5",
     "url": "/mutton-editor/img/svg/service/nextcloud-svgrepo-com.svg"
   },
   {
-    "revision": "ded5fcf590a9cac8dc8b02c9f3665817",
+    "revision": "e0d13b4415260113eb9374f122a48785",
     "url": "/mutton-editor/img/svg/service/nhs-svgrepo-com.svg"
   },
   {
@@ -1532,35 +1532,35 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/svg/service/npm-svgrepo-com.svg"
   },
   {
-    "revision": "525989f963ee50a53dc64cdf94c3d8c0",
+    "revision": "6b157f2f51a27ab03afc2e689e2c975f",
     "url": "/mutton-editor/img/svg/service/ok-svgrepo-com.svg"
   },
   {
-    "revision": "a61ff362b1e003aab1618badca95ab4f",
+    "revision": "4ef999cefd2d4a3669b71cb49980dc6b",
     "url": "/mutton-editor/img/svg/service/okcupid-communication-network-connection-internet-svgrepo-com.svg"
   },
   {
-    "revision": "4558d35a2fe116a259c80c4d453a3a04",
+    "revision": "a8279149bd754d5c2c4b00482fee7923",
     "url": "/mutton-editor/img/svg/service/olympics-svgrepo-com.svg"
   },
   {
-    "revision": "0ba7b33b2b7f3492c12533d1c8d416ef",
+    "revision": "519016802eeb43cd133739a95c5f7486",
     "url": "/mutton-editor/img/svg/service/openbenches-svgrepo-com.svg"
   },
   {
-    "revision": "fb40e929326e5bc7dc9ad5acaf5c6623",
+    "revision": "16ddbede80daf9a869b375f7fac91037",
     "url": "/mutton-editor/img/svg/service/openbugbounty-svgrepo-com.svg"
   },
   {
-    "revision": "9ee5b94b1817c548bee8e76e1c4fdf3f",
+    "revision": "a2f4382128f43e9806b6e62221cbca47",
     "url": "/mutton-editor/img/svg/service/opencast-svgrepo-com.svg"
   },
   {
-    "revision": "effc9b2c276756909f6da9828d3d778c",
+    "revision": "7957c20155ea560141728adc1ef6b696",
     "url": "/mutton-editor/img/svg/service/opencollective-svgrepo-com.svg"
   },
   {
-    "revision": "4275d9eac003393d89f5d438817a48e3",
+    "revision": "a570fe9a88f278f4655d237166c4f66a",
     "url": "/mutton-editor/img/svg/service/opencores-svgrepo-com.svg"
   },
   {
@@ -1568,27 +1568,27 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/svg/service/openshift-svgrepo-com.svg"
   },
   {
-    "revision": "4d81e16e59b1b89eababc1120b10391e",
+    "revision": "363f3d46d582c5a5be2407cb07e5be95",
     "url": "/mutton-editor/img/svg/service/opensource-svgrepo-com.svg"
   },
   {
-    "revision": "12303d4dd7a7539eda715a765c00c431",
+    "revision": "207142dbc505e2e9f4751599883e622c",
     "url": "/mutton-editor/img/svg/service/openvpn-svgrepo-com.svg"
   },
   {
-    "revision": "8130833f3f62f9c3767cba62440c4d1e",
+    "revision": "57b641f4dd1544fdf69ff2749598ffd3",
     "url": "/mutton-editor/img/svg/service/opera-svgrepo-com.svg"
   },
   {
-    "revision": "c282d5113ac069a0724e6fd69d6bc898",
+    "revision": "30d8bb89df6a49acde159e01696ea40c",
     "url": "/mutton-editor/img/svg/service/orcid-svgrepo-com.svg"
   },
   {
-    "revision": "fc4c0cdb6f66aa1fa8283ca4e105f7ff",
+    "revision": "c63cf1a1fe43f3b6df2cfb3092048096",
     "url": "/mutton-editor/img/svg/service/overcast-svgrepo-com.svg"
   },
   {
-    "revision": "dd66069aa5289bedb518ec2c50a60106",
+    "revision": "0263ff2a3dc9f39c882f03c6116c3a5b",
     "url": "/mutton-editor/img/svg/service/overleaf-svgrepo-com.svg"
   },
   {
@@ -1596,23 +1596,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/svg/service/packer-svgrepo-com.svg"
   },
   {
-    "revision": "b5d72bff5762de707b7629e2566cb59e",
+    "revision": "a182449d1943ad05db5799151fb70821",
     "url": "/mutton-editor/img/svg/service/patreon-svgrepo-com.svg"
   },
   {
-    "revision": "e631e401715578be28812eef4b1e7836",
+    "revision": "8544681ef805faef0a0c1eb5316b809b",
     "url": "/mutton-editor/img/svg/service/paypal-svgrepo-com.svg"
   },
   {
-    "revision": "f902d7f53b39469dd955b79527c0386b",
+    "revision": "d62ba6001a574c8e609875e6415a776a",
     "url": "/mutton-editor/img/svg/service/pdf-svgrepo-com.svg"
   },
   {
-    "revision": "94cccaece6887019909f9851a5322319",
+    "revision": "e3cbc8731d5acd18c634900404e43d15",
     "url": "/mutton-editor/img/svg/service/peanut-network-communication-connection-internet-interaction-svgrepo-com.svg"
   },
   {
-    "revision": "6194d6b29012c81ed86de5c00da44ce5",
+    "revision": "3e80dd9004f04893f73c7eddd4b1de85",
     "url": "/mutton-editor/img/svg/service/phone-svgrepo-com.svg"
   },
   {
@@ -1620,43 +1620,43 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/svg/service/php-svgrepo-com.svg"
   },
   {
-    "revision": "321618bf9379a1f38b2fe94e63ea9ad1",
+    "revision": "1600442eb25c3db7e2e53c3c8d1d4ae4",
     "url": "/mutton-editor/img/svg/service/pinboard-svgrepo-com.svg"
   },
   {
-    "revision": "fbe8643e3b73c56575a508dce873d526",
+    "revision": "cb1331bc6b530b9d89548894c0f411e7",
     "url": "/mutton-editor/img/svg/service/pinterest-social-media-communication-network-conversation-internet-svgrepo-com.svg"
   },
   {
-    "revision": "4cd76bfefbddbf588f6a8fcde879fc43",
+    "revision": "8eb1fd5120b8f620210b9ada7c30b797",
     "url": "/mutton-editor/img/svg/service/pinterest-svgrepo-com.svg"
   },
   {
-    "revision": "829ef6ba5b857cbf42cf3cd13cd3d263",
+    "revision": "ae503c34a8b58e4d5aadee8298ee18ed",
     "url": "/mutton-editor/img/svg/service/pixelfed-svgrepo-com.svg"
   },
   {
-    "revision": "13264cb301675df7b59e0a4a9af7246e",
+    "revision": "f080cbe976c97fedffb7a7e896947eef",
     "url": "/mutton-editor/img/svg/service/plex-svgrepo-com.svg"
   },
   {
-    "revision": "9bbb3c5e0f5b43b3ff89374ba38393d7",
+    "revision": "45d73a29fabdec909cf6bb6629f0f6ab",
     "url": "/mutton-editor/img/svg/service/pocket-svgrepo-com.svg"
   },
   {
-    "revision": "3ffa1fcc824317cbc6aa22a3b07228a0",
+    "revision": "d4b91c520f0fbc0ddda816afabc25d87",
     "url": "/mutton-editor/img/svg/service/pocketcasts-svgrepo-com.svg"
   },
   {
-    "revision": "651d1e018324646abbd41b2fb7b1dcdb",
+    "revision": "43e1dd4222cb4e8ea87f5b08fe8f1f19",
     "url": "/mutton-editor/img/svg/service/preact-svgrepo-com.svg"
   },
   {
-    "revision": "ccecee71feaf1ec2e38cf99874ee717d",
+    "revision": "b90c495b786513740c6bd91a7851e1cf",
     "url": "/mutton-editor/img/svg/service/print-svgrepo-com.svg"
   },
   {
-    "revision": "4d7eab9a730f79770dad7b8b6a843185",
+    "revision": "4116e91eec3654203b83f14cd5cb8c01",
     "url": "/mutton-editor/img/svg/service/protonmail-svgrepo-com.svg"
   },
   {
@@ -1664,51 +1664,51 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/svg/service/python-svgrepo-com.svg"
   },
   {
-    "revision": "1e69f58646f7631e89414b62a5a71a78",
+    "revision": "7e9c3fccdefe3464f8cd0b92425c3c35",
     "url": "/mutton-editor/img/svg/service/qq-svgrepo-com.svg"
   },
   {
-    "revision": "ee94389323b5ebeee9f689a69f8d4838",
+    "revision": "ff06cd3551cf8cd5b97df57556c767c3",
     "url": "/mutton-editor/img/svg/service/quora-network-communication-chat-conversation-connection-svgrepo-com.svg"
   },
   {
-    "revision": "0eaf29615f38bbf2479ac2c5c5178670",
+    "revision": "c7e9af20d1fc438299b9402061ece34a",
     "url": "/mutton-editor/img/svg/service/qzone-network-connection-communication-conversation-svgrepo-com.svg"
   },
   {
-    "revision": "93c2fe0ec30b0496e6f9c3c548011396",
+    "revision": "08184f95df2e9a3782b4812a56ea82ac",
     "url": "/mutton-editor/img/svg/service/rails-svgrepo-com.svg"
   },
   {
-    "revision": "8307abb877de0de7c44dfbf4192314a3",
+    "revision": "89e12412f7c6841c1c255f30db8d79e2",
     "url": "/mutton-editor/img/svg/service/raspberry-pi-svgrepo-com.svg"
   },
   {
-    "revision": "b9242b8f8446eb6bb1e582a4bb983112",
+    "revision": "3f04f2261d0a55dda0be8e444e1ad91d",
     "url": "/mutton-editor/img/svg/service/react-svgrepo-com.svg"
   },
   {
-    "revision": "30b6d3a084c5246dfe57d42034f1bb3c",
+    "revision": "0ba952aaf2e4caba010a6a0bae185e4c",
     "url": "/mutton-editor/img/svg/service/reddit-social-media-communication-network-internet-connection-svgrepo-com.svg"
   },
   {
-    "revision": "f6b5f26d3509f63bb31c9326ada2c48b",
+    "revision": "f6cdcf3d009fcb59ca98f79061397c4a",
     "url": "/mutton-editor/img/svg/service/reddit-svgrepo-com.svg"
   },
   {
-    "revision": "24adba3703947fa2a4d2ffaf2e670b1e",
+    "revision": "49b3ba821b1c6b10ae586d94e264f07d",
     "url": "/mutton-editor/img/svg/service/redhat-svgrepo-com.svg"
   },
   {
-    "revision": "918492b3f743c9bd87e7548eda8a8051",
+    "revision": "87f5065631d4d872cd8764e28ddb387c",
     "url": "/mutton-editor/img/svg/service/researchgate-svgrepo-com.svg"
   },
   {
-    "revision": "cb85a3b7787c6e643c8622159a88b0a6",
+    "revision": "78ab3e0b54f3e30c3737efda5919c9fc",
     "url": "/mutton-editor/img/svg/service/roundcube-svgrepo-com.svg"
   },
   {
-    "revision": "0d0e41a39414e81c695f0cc0dbf1d950",
+    "revision": "f299550ce3018383bfaff07919090a46",
     "url": "/mutton-editor/img/svg/service/rss-svgrepo-com.svg"
   },
   {
@@ -1716,11 +1716,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/svg/service/ruby-svgrepo-com.svg"
   },
   {
-    "revision": "85a180ccfe7589cf6c1b9bc939cfd83c",
+    "revision": "638b5b4a16e2b2568d89586be00e0e86",
     "url": "/mutton-editor/img/svg/service/rubygems-svgrepo-com.svg"
   },
   {
-    "revision": "3111eaee8c17ad853df6ebcfeb5ae3a9",
+    "revision": "285cad16fc1a45c38a3ab7406978dcf0",
     "url": "/mutton-editor/img/svg/service/rubyonrails-svgrepo-com.svg"
   },
   {
@@ -1728,27 +1728,27 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/svg/service/rust-svgrepo-com.svg"
   },
   {
-    "revision": "c13f688a2b5d26385bf229b478d25fa0",
+    "revision": "f73d850050b38e640dd25bfe3ba8e3f1",
     "url": "/mutton-editor/img/svg/service/safari-svgrepo-com.svg"
   },
   {
-    "revision": "cbda6d28ab12619677f2634f17894e29",
+    "revision": "ded8ebce18dc8f48dccb157ca2f028b2",
     "url": "/mutton-editor/img/svg/service/samsung-internet-svgrepo-com.svg"
   },
   {
-    "revision": "e13c7029e92d88f5fd258f7e8fb9eef2",
+    "revision": "b081f24272c9df9c53ddc56ae21014a5",
     "url": "/mutton-editor/img/svg/service/samsung-s-svgrepo-com.svg"
   },
   {
-    "revision": "560f274c6c53fa060f4f80adbefc8590",
+    "revision": "6df50097120b86742cbc71495e393c8c",
     "url": "/mutton-editor/img/svg/service/samsung-svgrepo-com.svg"
   },
   {
-    "revision": "768ed9cb426fe2183fce2133e896c131",
+    "revision": "bb8dc7ee8445f996325c2e6d5facbae0",
     "url": "/mutton-editor/img/svg/service/samsung-swoop-svgrepo-com.svg"
   },
   {
-    "revision": "af2b8f3b5e5a8a9d579154ce865ea7b8",
+    "revision": "ed2282b0a1167d2e43097bb5eeb9e851",
     "url": "/mutton-editor/img/svg/service/sass-svgrepo-com.svg"
   },
   {
@@ -1756,119 +1756,119 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/svg/service/scala-svgrepo-com.svg"
   },
   {
-    "revision": "1dbdac8a3e1da982d0166225b8777319",
+    "revision": "fcc226a43e16959d138d983dfc1bb437",
     "url": "/mutton-editor/img/svg/service/semaphoreci-svgrepo-com.svg"
   },
   {
-    "revision": "9f2ccc55ee5a5c21ed232a498bf900eb",
+    "revision": "1b6569115ca56b827bb6dfd1eb3f2f50",
     "url": "/mutton-editor/img/svg/service/sentry-svgrepo-com.svg"
   },
   {
-    "revision": "3ef38eeb5f520413bfc44a446cca9ae0",
+    "revision": "0da2bde76b3b5b2821e3988121d741fb",
     "url": "/mutton-editor/img/svg/service/serverless-framework-svgrepo-com.svg"
   },
   {
-    "revision": "24e741acd063105aba80ffbb30bb71d6",
+    "revision": "f2c184ad94aff8dc7b9008669ba4e734",
     "url": "/mutton-editor/img/svg/service/signal-network-communication-connection-conversation-internet-chat-svgrepo-com.svg"
   },
   {
-    "revision": "c7261f1e1147212998f29f7be8c894fb",
+    "revision": "748300c8916754e8d9f90dcb84e381fe",
     "url": "/mutton-editor/img/svg/service/signal-svgrepo-com.svg"
   },
   {
-    "revision": "011921a13d9c1fc24b8091c3cd556850",
+    "revision": "79b7cc717a66cbe00d50129beb49d528",
     "url": "/mutton-editor/img/svg/service/sina-weibo-communication-interaction-message-network-svgrepo-com.svg"
   },
   {
-    "revision": "85ddd39362a5091e21cf919213080036",
+    "revision": "67f47399829e40417419e4c553bf5340",
     "url": "/mutton-editor/img/svg/service/sketch-svgrepo-com.svg"
   },
   {
-    "revision": "4c1a088ec4bec4e39b8e1953d30fef51",
+    "revision": "e0e35318b60ae032c1b26873e6738f83",
     "url": "/mutton-editor/img/svg/service/skype-network-communication-internet-connection-conversation-svgrepo-com.svg"
   },
   {
-    "revision": "7fbd2e27dc70a0800d0611c201cfe2b1",
+    "revision": "39217d6d7b575b9d0d62657a4be66bdf",
     "url": "/mutton-editor/img/svg/service/skype-svgrepo-com.svg"
   },
   {
-    "revision": "4b4c2adb6d4e7c4f01b29b706c5bd291",
+    "revision": "a8b8316d42a71c36853f4ebe7bbe7f8d",
     "url": "/mutton-editor/img/svg/service/slack-communication-interaction-message-network-svgrepo-com.svg"
   },
   {
-    "revision": "b567d6b1612ce30bee22788aa9be8715",
+    "revision": "b8f4f83dcdfac9f44bb3f27200eec18f",
     "url": "/mutton-editor/img/svg/service/slack-svgrepo-com.svg"
   },
   {
-    "revision": "11d6cfa49589d21c7a88e3b3a446af9d",
+    "revision": "d4cbed9874aa5867c73c4e40ddd9706d",
     "url": "/mutton-editor/img/svg/service/slideshare-svgrepo-com.svg"
   },
   {
-    "revision": "326b1ba27f18b647e54d40d1bf36ddc7",
+    "revision": "2aa19373e767dc8aff3f8ef98c6b5d19",
     "url": "/mutton-editor/img/svg/service/snapchat-messaging-conversation-communication-interaction-connection-svgrepo-com.svg"
   },
   {
-    "revision": "d771d5876bb52d5821346f000e70c2ff",
+    "revision": "7c2d2f4daf1a82d13dc98fb3aba27bdf",
     "url": "/mutton-editor/img/svg/service/snapchat-svgrepo-com.svg"
   },
   {
-    "revision": "3722453be7f0c59e690da617d89b0d9e",
+    "revision": "51189fb643e6cc9a013bfc52eb892061",
     "url": "/mutton-editor/img/svg/service/soundcloud-music-multimedia-communcation-svgrepo-com.svg"
   },
   {
-    "revision": "5fc2938f15124e7b5b6f9a9ef846d9d8",
+    "revision": "01602a38dd0984df3aa74d7798db2697",
     "url": "/mutton-editor/img/svg/service/soundcloud-svgrepo-com.svg"
   },
   {
-    "revision": "63e963abb192ad7f73051be9bd6a547a",
+    "revision": "77904210f475509f6d88bcc5d4ff1513",
     "url": "/mutton-editor/img/svg/service/spotify-svgrepo-com.svg"
   },
   {
-    "revision": "c7aa6e317c146529fbbe0a0f90ac069c",
+    "revision": "f6b625e2217eeb3f652137b69eaac494",
     "url": "/mutton-editor/img/svg/service/spring-svgrepo-com.svg"
   },
   {
-    "revision": "fef0217fbebd7a6c7aa1b6e5309829b4",
+    "revision": "b838ce7638cda6434d690ea5f6418da6",
     "url": "/mutton-editor/img/svg/service/square-cash-svgrepo-com.svg"
   },
   {
-    "revision": "0f782de1664b19d462a76bbb333e31bb",
+    "revision": "b93de37aef6341ae7777baeab9acce55",
     "url": "/mutton-editor/img/svg/service/stackexchange-svgrepo-com.svg"
   },
   {
-    "revision": "4aad14231dae12cf2f63b5cfaf28db1b",
+    "revision": "948519476edeacb6c9e1713df4164eaa",
     "url": "/mutton-editor/img/svg/service/stackoverflow-svgrepo-com.svg"
   },
   {
-    "revision": "6faee664f0f6f2d7b7af0740fdc1d116",
+    "revision": "3aa8784b5796aebc6b02076b4926d3f3",
     "url": "/mutton-editor/img/svg/service/steam-svgrepo-com.svg"
   },
   {
-    "revision": "ed5f5cf8d66d81608111924f7a2cbb3d",
+    "revision": "3944eef93f6e8d126a7e7fbde477779c",
     "url": "/mutton-editor/img/svg/service/steemit-communication-interaction-connection-network-conversation-svgrepo-com.svg"
   },
   {
-    "revision": "d9635365541260f4e5b369e720a35167",
+    "revision": "63c08180657a529ef9a063a1ec7fcd55",
     "url": "/mutton-editor/img/svg/service/stitcher-svgrepo-com.svg"
   },
   {
-    "revision": "5e63dd818dbdcb325182f33f518109e8",
+    "revision": "7bd7e00b05b2aeddcc5263d919a6ee1d",
     "url": "/mutton-editor/img/svg/service/strava-svgrepo-com.svg"
   },
   {
-    "revision": "e467e50303de548a899c90399f91548b",
+    "revision": "a4f819f231b4f74068094f1a388f6a65",
     "url": "/mutton-editor/img/svg/service/stumbleupon-svgrepo-com.svg"
   },
   {
-    "revision": "3bd5008f6328c3791a9865069a2248bb",
+    "revision": "7deb3a9d225d7ec3fd8f34baab280e90",
     "url": "/mutton-editor/img/svg/service/sublimetext-svgrepo-com.svg"
   },
   {
-    "revision": "8feb6e52f1b4290ec4b4f17e625b7863",
+    "revision": "f27ccb7a093a256831953bb396eb2589",
     "url": "/mutton-editor/img/svg/service/svelte-svgrepo-com.svg"
   },
   {
-    "revision": "3729fe65c49bdbf8636d94440f199d2c",
+    "revision": "b00ba98735ea56c6237da7b64ec94b30",
     "url": "/mutton-editor/img/svg/service/svg-svgrepo-com.svg"
   },
   {
@@ -1876,31 +1876,31 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/svg/service/swift-svgrepo-com.svg"
   },
   {
-    "revision": "259c1c369a6f9ef457200d05131b03b7",
+    "revision": "d56ad1073e3ebb5ad55cc7bc22cc12c1",
     "url": "/mutton-editor/img/svg/service/symantec-svgrepo-com.svg"
   },
   {
-    "revision": "824dbb89333b8e1417bb44228c3dd5bd",
+    "revision": "ce8ed31eb8112587beeef17b7763d5c1",
     "url": "/mutton-editor/img/svg/service/taiga-svgrepo-com.svg"
   },
   {
-    "revision": "68c0aaea6f9f80d3b8c0887d91745e64",
+    "revision": "cc10687421eb7cf0d2cade8d2764c68d",
     "url": "/mutton-editor/img/svg/service/tantan-communication-network-connection-internet-message-svgrepo-com.svg"
   },
   {
-    "revision": "08175780af579e617b2a5917938621f2",
+    "revision": "f4a41466ee0ac2c715ed52e0150a54e4",
     "url": "/mutton-editor/img/svg/service/teamspeak-svgrepo-com.svg"
   },
   {
-    "revision": "97a5211ee4b0f9f08d7a6b4cb77746f9",
+    "revision": "5d59faaf91f207debd87a3532c8fa2e4",
     "url": "/mutton-editor/img/svg/service/telegram-communication-chat-interaction-network-connection-svgrepo-com.svg"
   },
   {
-    "revision": "bc19225d2e1a30077f0ee8d9f8b91b38",
+    "revision": "65fe3dc20c813c099325d8ca9c86b926",
     "url": "/mutton-editor/img/svg/service/telegram-svgrepo-com.svg"
   },
   {
-    "revision": "306e03d6869bf2c6e8d2e7d08d8538b3",
+    "revision": "0b41fbbfac489cc5bcfa1434e4674efb",
     "url": "/mutton-editor/img/svg/service/tencent-serverless-framework-svgrepo-com.svg"
   },
   {
@@ -1908,267 +1908,267 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/svg/service/terraform-svgrepo-com.svg"
   },
   {
-    "revision": "06efc55ee09c41cddc6c1db512445730",
+    "revision": "0558fb206db4cc27835964bbcb29ebe6",
     "url": "/mutton-editor/img/svg/service/thisamericanlife-svgrepo-com.svg"
   },
   {
-    "revision": "23384ad5ec361fff9174d93b8bf94762",
+    "revision": "0b890302fcdcb7bb7c551badfc562a4c",
     "url": "/mutton-editor/img/svg/service/threema-svgrepo-com.svg"
   },
   {
-    "revision": "a1ae6605d2ba98bf7a2811b3e7c61d04",
+    "revision": "21ddda07f33d035b2a0050c1e827cbce",
     "url": "/mutton-editor/img/svg/service/tiktok-social-media-network-communication-internet-interaction-connection-svgrepo-com.svg"
   },
   {
-    "revision": "1ce110cfdbef9850e801cae27bde64b4",
+    "revision": "9e37ded4f9bda6735ab0a6c670612098",
     "url": "/mutton-editor/img/svg/service/tiktok-svgrepo-com.svg"
   },
   {
-    "revision": "1f95a4a7d6dac50516e8fcca785db0e6",
+    "revision": "6802a7b17866016ede2352c7fc585726",
     "url": "/mutton-editor/img/svg/service/tinder-connection-internet-network-communication-social-media-svgrepo-com.svg"
   },
   {
-    "revision": "32466f1ed92ceaa98b028f759bc1066d",
+    "revision": "f013db8cea7a4d3dd57cb5fbec93f3e5",
     "url": "/mutton-editor/img/svg/service/tox-svgrepo-com.svg"
   },
   {
-    "revision": "f778717b604b983a642b971cfde4c99d",
+    "revision": "da642c79d8b6819452b7df5b94d4b31e",
     "url": "/mutton-editor/img/svg/service/trello-svgrepo-com.svg"
   },
   {
-    "revision": "07d81275ac909f6743a4ef254fefa881",
+    "revision": "4516630962e209f1743c21e556b5580a",
     "url": "/mutton-editor/img/svg/service/tripadvisor-svgrepo-com.svg"
   },
   {
-    "revision": "2d95a7d3c203938e058c6beaee1fac47",
+    "revision": "ce835a12f67bfa5dc5e45129b23e455b",
     "url": "/mutton-editor/img/svg/service/tumblr-social-media-branding-communication-interaction-svgrepo-com.svg"
   },
   {
-    "revision": "298fe75c1a6151900b5e46013ca6f1c2",
+    "revision": "eca7dba18194189a4fe86c5813dab76f",
     "url": "/mutton-editor/img/svg/service/tumblr-svgrepo-com.svg"
   },
   {
-    "revision": "c59b1d366b333fa3253503e564c5d5e9",
+    "revision": "ddbfcdb424d09d94baa7f1b0a7f4dffa",
     "url": "/mutton-editor/img/svg/service/tunein-svgrepo-com.svg"
   },
   {
-    "revision": "f57519b4e3918c423cf411888d982a0a",
+    "revision": "37a91ce7c7813d4aed6c61608f411d1e",
     "url": "/mutton-editor/img/svg/service/tutanota-svgrepo-com.svg"
   },
   {
-    "revision": "5dd3090524feb55234078bb3d5d73737",
+    "revision": "e993c5b1496cd60d7c831d544eb83ee2",
     "url": "/mutton-editor/img/svg/service/twilio-svgrepo-com.svg"
   },
   {
-    "revision": "171c8c0c0dc19cf44aa6a64ed5c88f11",
+    "revision": "84e41f3f6024c8eba46002e715d1c949",
     "url": "/mutton-editor/img/svg/service/twitch-network-communication-interaction-connection-svgrepo-com.svg"
   },
   {
-    "revision": "ca5fcd50cea0274d066198d43bb48ce4",
+    "revision": "b5a10cb97405227feee37ee7e92aefe0",
     "url": "/mutton-editor/img/svg/service/twitch-svgrepo-com.svg"
   },
   {
-    "revision": "1d88ca26b9e0e5d2f4e570c1e95ba28e",
+    "revision": "e5ed8106e1111cd2740de52daf7ea53e",
     "url": "/mutton-editor/img/svg/service/twitter-social-media-communication-network-internet-connection-svgrepo-com.svg"
   },
   {
-    "revision": "12a811073d1931a600a2bd98d7455dcb",
+    "revision": "4c0940e49df4aba58b5e5a606ac2f7a2",
     "url": "/mutton-editor/img/svg/service/twitter-svgrepo-com.svg"
   },
   {
-    "revision": "77ccce5ba80233c33cf383746c3055e9",
+    "revision": "a05f71238ff116595bd954eedbe42121",
     "url": "/mutton-editor/img/svg/service/typescript-svgrepo-com.svg"
   },
   {
-    "revision": "d250b97ccba4413d81b09e706534e3ba",
+    "revision": "8d01db4873f719a9a9c1f7d05a4bb0cb",
     "url": "/mutton-editor/img/svg/service/uber-svgrepo-com.svg"
   },
   {
-    "revision": "5bc2d1eb2724dd3605304aeaa4d83214",
+    "revision": "fde884c66ca391035ea442eb5810aec0",
     "url": "/mutton-editor/img/svg/service/ubiquiti-svgrepo-com.svg"
   },
   {
-    "revision": "747739306017bdac5805d92256d9a19b",
+    "revision": "4b44d79d64a14e888144adf9778e29fc",
     "url": "/mutton-editor/img/svg/service/ubisoft-svgrepo-com.svg"
   },
   {
-    "revision": "74e344208043528f17d893d454823e5b",
+    "revision": "1cdf641c595b088e9a86d18d0164de88",
     "url": "/mutton-editor/img/svg/service/ubuntu-svgrepo-com.svg"
   },
   {
-    "revision": "f0175dcbdaa5ea45df276acee233128c",
+    "revision": "aa9cf1fadc812f4bea80a12a98c3705d",
     "url": "/mutton-editor/img/svg/service/unicode-svgrepo-com.svg"
   },
   {
-    "revision": "800f9e1253f0a3c508cf651da0289ac9",
+    "revision": "7cd65390eec346d7f123907153d5e683",
     "url": "/mutton-editor/img/svg/service/untappd-svgrepo-com.svg"
   },
   {
-    "revision": "b3f1c273f932a292a84b6d73899c4cfe",
+    "revision": "e1b0d38cad9df0795adeacfd2948d751",
     "url": "/mutton-editor/img/svg/service/uphold-svgrepo-com.svg"
   },
   {
-    "revision": "f8079cd50e3ee93e3aafa767cbc1056d",
+    "revision": "16f7369374fdb2a1c800ad9db408baef",
     "url": "/mutton-editor/img/svg/service/uplay-svgrepo-com.svg"
   },
   {
-    "revision": "0dece4ea11a8a35cb8b6b7523f7685e2",
+    "revision": "c5ff46c385c5ed9ceef55705c12ad9aa",
     "url": "/mutton-editor/img/svg/service/upwork-svgrepo-com.svg"
   },
   {
-    "revision": "00f80cf71a585154929a62b289a376cc",
+    "revision": "dee8ba6b553bc2e9fb74c83e4b322789",
     "url": "/mutton-editor/img/svg/service/vegetarian-svgrepo-com.svg"
   },
   {
-    "revision": "0e2dc6410bb2e4de3f0e42a15c76d9ed",
+    "revision": "53acf43eef2470b3a2cf2a55f29bb5c5",
     "url": "/mutton-editor/img/svg/service/venmo-svgrepo-com.svg"
   },
   {
-    "revision": "cc4b23d1cd356e63398c6adaf2645833",
+    "revision": "1872bd2724d0684c6ee535ca15a52412",
     "url": "/mutton-editor/img/svg/service/viber-communication-interaction-connection-conversation-svgrepo-com.svg"
   },
   {
-    "revision": "8c3ab4eaab4d1cef6a915a9b5910a8cf",
+    "revision": "7a72f4cc02d26f580319f65f295db15b",
     "url": "/mutton-editor/img/svg/service/viber-svgrepo-com.svg"
   },
   {
-    "revision": "83d56886822b343ca30daeed8a744cef",
+    "revision": "b6b3b6a317c3452a2cde795bc3f870de",
     "url": "/mutton-editor/img/svg/service/vimeo-network-communication-internet-conversation-svgrepo-com.svg"
   },
   {
-    "revision": "a8ddfb51c0f1cffd3282e858aa9a5e85",
+    "revision": "7f70e16182dcd62868e070711a0b8707",
     "url": "/mutton-editor/img/svg/service/vimeo-svgrepo-com.svg"
   },
   {
-    "revision": "f633780233df4d6db9fce580af05aa08",
+    "revision": "7985393384b5da1e7772fe4dc3396d22",
     "url": "/mutton-editor/img/svg/service/vivino-svgrepo-com.svg"
   },
   {
-    "revision": "2a0d5b6f74009c26454f2848b8e61fb9",
+    "revision": "c04310ef879b642073922cf79a611c2d",
     "url": "/mutton-editor/img/svg/service/vk-communication-internet-network-chat-interaction-svgrepo-com.svg"
   },
   {
-    "revision": "cd6ce18374ba4709ae672a5cc8f32db3",
+    "revision": "a19825e40418be775d9ee11a817fb679",
     "url": "/mutton-editor/img/svg/service/vk-svgrepo-com.svg"
   },
   {
-    "revision": "5c3386d343c49371fed99156b2f24e2f",
+    "revision": "423af97f09a2eef88fa363297c0d5fad",
     "url": "/mutton-editor/img/svg/service/vlc-svgrepo-com.svg"
   },
   {
-    "revision": "ecddc56864b805a9802fc597017d2ad7",
+    "revision": "60841f3004f6c3a32d14c7cbfeb8f7ba",
     "url": "/mutton-editor/img/svg/service/vue-svgrepo-com.svg"
   },
   {
-    "revision": "76a41f22c28a8965969bf35cb5f58d53",
+    "revision": "9e08fc040d4bc3ad77906971360e688b",
     "url": "/mutton-editor/img/svg/service/w3c-svgrepo-com.svg"
   },
   {
-    "revision": "f78f5d3f0ae945aa64b03a04550c5ede",
+    "revision": "f52a61f544dd5e9e313bfd9941101eec",
     "url": "/mutton-editor/img/svg/service/wattpad-connection-internet-network-communication-conversation-interaction-svgrepo-com.svg"
   },
   {
-    "revision": "3d299709b3d293a612924821938f5ce9",
+    "revision": "e92bb47695d6b9dec2bfdc11ef063904",
     "url": "/mutton-editor/img/svg/service/webassembly-svgrepo-com.svg"
   },
   {
-    "revision": "0d7b04122e0cb65571171119e035a4b9",
+    "revision": "d129e6b70929940b6cb4ae2a1aa99692",
     "url": "/mutton-editor/img/svg/service/wechat-communication-interaction-connection-internet-svgrepo-com.svg"
   },
   {
-    "revision": "dcc448e35a88d13213abe970d4b18dc1",
+    "revision": "3abc8acf47e81579ba2aa4170270192f",
     "url": "/mutton-editor/img/svg/service/wechat-svgrepo-com.svg"
   },
   {
-    "revision": "a705529a6b0a7e0794fb01c37a820046",
+    "revision": "5eda551ec98faa39474c0206efdd2428",
     "url": "/mutton-editor/img/svg/service/wekan-svgrepo-com.svg"
   },
   {
-    "revision": "e88ac8d85568ab71d4429ab429988af8",
+    "revision": "c8dfd32befcf97fc79bf06fdb13c7525",
     "url": "/mutton-editor/img/svg/service/whatsapp-communication-message-interaction-network-svgrepo-com.svg"
   },
   {
-    "revision": "98ee472f913b2796b6ec7305906beb51",
+    "revision": "6c22685f358daa6b5888849789730029",
     "url": "/mutton-editor/img/svg/service/whatsapp-svgrepo-com.svg"
   },
   {
-    "revision": "14226cf2b879bb15fb49e5b4bcefcd05",
+    "revision": "6af91302e771c8da52e0729c032bdd68",
     "url": "/mutton-editor/img/svg/service/whatwg-svgrepo-com.svg"
   },
   {
-    "revision": "4754161901ad7dd269b2000787ca3f19",
+    "revision": "6decb2ba94c662f0a89894bba7026af0",
     "url": "/mutton-editor/img/svg/service/wifi-svgrepo-com.svg"
   },
   {
-    "revision": "05423bacfd8c78fa15eeb733d0f3cfda",
+    "revision": "46622a8d29b1acf58b52fe84e6acd662",
     "url": "/mutton-editor/img/svg/service/wikipedia-svgrepo-com.svg"
   },
   {
-    "revision": "c5370f80cc34251074aeddf0f39e6485",
+    "revision": "ddf18bf3d2ef1f2d43aadd7fb7b7bbbd",
     "url": "/mutton-editor/img/svg/service/windows-svgrepo-com.svg"
   },
   {
-    "revision": "5b7a256ede2dcda50c1ecaee98900e3f",
+    "revision": "fe2945962bf40bddc34cbe9c7e0e7d3d",
     "url": "/mutton-editor/img/svg/service/wire-svgrepo-com.svg"
   },
   {
-    "revision": "51ef023bb2710f03cb7a6df65a19ba7c",
+    "revision": "060826b9783eebd7194be5ba9e2cc643",
     "url": "/mutton-editor/img/svg/service/wireguard-svgrepo-com.svg"
   },
   {
-    "revision": "56d919be75eb243871e3e1e902007163",
+    "revision": "536ab52335cdd6d178b784e4e2a31930",
     "url": "/mutton-editor/img/svg/service/wordpress-svgrepo-com.svg"
   },
   {
-    "revision": "10baf872d59c0b93d2d96e85923e681e",
+    "revision": "ad93ae84925413aeb3103a77634754e7",
     "url": "/mutton-editor/img/svg/service/workato-svgrepo-com.svg"
   },
   {
-    "revision": "bbd7acbfb749625ab5938cc3a5d748be",
+    "revision": "486c9f0342073207797a84ebf08f2760",
     "url": "/mutton-editor/img/svg/service/xing-svgrepo-com.svg"
   },
   {
-    "revision": "2aeb80e9b67a8df6e28a7064a63502c7",
+    "revision": "e58d3b0fdb17a9409cd519fb98b270eb",
     "url": "/mutton-editor/img/svg/service/xmpp-svgrepo-com.svg"
   },
   {
-    "revision": "d4aa2a7adb3f1a49b388f7dba77e83a3",
+    "revision": "f37ad176556db90d8db3df8cae7b03c5",
     "url": "/mutton-editor/img/svg/service/yahoo-svgrepo-com.svg"
   },
   {
-    "revision": "085af051e8d96a42c28bd2c3363fcc8f",
+    "revision": "1126d1238f771751147722a54d47b7db",
     "url": "/mutton-editor/img/svg/service/yammer-svgrepo-com.svg"
   },
   {
-    "revision": "06f69e78e42bf79b11f98f17a6a16b74",
+    "revision": "c72812ad6a803df96b5cc035e4a485fe",
     "url": "/mutton-editor/img/svg/service/yarn-svgrepo-com.svg"
   },
   {
-    "revision": "730831a064340dae7160000eed903746",
+    "revision": "b391a1268b1807b6df9f4ae13bec97c6",
     "url": "/mutton-editor/img/svg/service/yelp-svgrepo-com.svg"
   },
   {
-    "revision": "979eebf3e05df5a0e516835d39b09a13",
+    "revision": "738c3742125e4af31df25614dccca3c8",
     "url": "/mutton-editor/img/svg/service/youtube-music-song-multimedia-audio-svgrepo-com.svg"
   },
   {
-    "revision": "bbff44a8d9ccecb11bf5700a10939b84",
+    "revision": "4e76433e9a5d64c8e73b8d96355c040b",
     "url": "/mutton-editor/img/svg/service/youtube-player-multimedia-video-communication-interaction-svgrepo-com.svg"
   },
   {
-    "revision": "9db9025c944126b9d43423d32b674542",
+    "revision": "7b2f8cdbe0ea731e14cb12dcfd9482bf",
     "url": "/mutton-editor/img/svg/service/youtube-svgrepo-com.svg"
   },
   {
-    "revision": "7c556b01e1cc8cb2b6985880ba23ec24",
+    "revision": "906fbb7c8939f59a48c0a3ad56c9bf76",
     "url": "/mutton-editor/img/svg/service/yubico-svgrepo-com.svg"
   },
   {
-    "revision": "e0d34f13592b5cef13c1be66e1c6986d",
+    "revision": "bc049c7740c3046ecfed3fe559d592a3",
     "url": "/mutton-editor/img/svg/service/zoom-communication-network-conversation-connection-internet-svgrepo-com.svg"
   },
   {
-    "revision": "deb7b0d601dc695461a2d6011b75bc5a",
+    "revision": "761ff3ad4f0ed4d24e6eb833ba568815",
     "url": "/mutton-editor/img/svg/service/zoom-svgrepo-com.svg"
   },
   {
@@ -2176,7 +2176,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/thumbnail.png"
   },
   {
-    "revision": "b9ab131f47c59c38cbc06343b40bf560",
+    "revision": "947b37f7e9b122408d3f031af2b45090",
     "url": "/mutton-editor/index.html"
   },
   {
@@ -2184,27 +2184,27 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/manifest.json"
   },
   {
-    "revision": "5f111927e78fea68e15bf48280c4337c",
+    "revision": "7bdba2c810fff26a25bab63ce68e8304",
     "url": "/mutton-editor/robots.txt"
   },
   {
-    "revision": "f59304a7fb4d96ee0809",
-    "url": "/mutton-editor/static/css/app.513e7aba.css"
+    "revision": "b00e145e778a089ff63f",
+    "url": "/mutton-editor/static/css/app.649afec5.css"
   },
   {
-    "revision": "b78ddbe165aa6fa36aa4",
+    "revision": "ebb161f43ba712604a9c",
     "url": "/mutton-editor/static/css/chunk-06558558.5011e584.css"
   },
   {
-    "revision": "8340902176d7a40e12b5",
+    "revision": "01ba750faf6302a103ac",
     "url": "/mutton-editor/static/css/chunk-0b3fc8d2.77d7d781.css"
   },
   {
-    "revision": "17a9b9bd7108a62b85c9",
+    "revision": "2af385468cfa1303ae2d",
     "url": "/mutton-editor/static/css/chunk-28f30a78.503bdccf.css"
   },
   {
-    "revision": "395f69b75add33bf5e99",
+    "revision": "a44f2893f7e356eb043a",
     "url": "/mutton-editor/static/css/chunk-43abbaea.0a8240b5.css"
   },
   {
@@ -2212,35 +2212,35 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/static/css/chunk-46503ad2.aba1cc9e.css"
   },
   {
-    "revision": "beb349a4fa0be942d6ad",
+    "revision": "68aaa2e7b3550699eba2",
     "url": "/mutton-editor/static/css/chunk-483795de.f8f2cbb9.css"
   },
   {
-    "revision": "a2616461a056c3fd9530",
+    "revision": "105e0094cc01b74d9925",
     "url": "/mutton-editor/static/css/chunk-5785f5c0.9ece8f48.css"
   },
   {
-    "revision": "0702b15edd2a198ee9dd",
+    "revision": "f99ebc98b7814fd082d7",
     "url": "/mutton-editor/static/css/chunk-5f6217d7.2e88e354.css"
   },
   {
-    "revision": "ddcd3e1b8e02411ae0b8",
+    "revision": "118720fd9d4e11f36cbc",
     "url": "/mutton-editor/static/css/chunk-77db01d4.571168d1.css"
   },
   {
-    "revision": "3ca6e5acc3190605da0c",
+    "revision": "5454b86e5d9cf9648f49",
     "url": "/mutton-editor/static/css/chunk-cebb4bc2.e3686512.css"
   },
   {
-    "revision": "bdb1daf37e43398a3932",
-    "url": "/mutton-editor/static/css/chunk-dc4924d8.5814c83f.css"
+    "revision": "e72ebf2b4f9209a80581",
+    "url": "/mutton-editor/static/css/chunk-dc4924d8.3a7ab3ab.css"
   },
   {
     "revision": "8854aafe694e5eefc4f0",
     "url": "/mutton-editor/static/css/chunk-elementUI.5c89e5c1.css"
   },
   {
-    "revision": "bfd9e86ee57908d27089",
+    "revision": "70d6ab90904f56979264",
     "url": "/mutton-editor/static/css/chunk-libs.af9f847f.css"
   },
   {
@@ -2332,88 +2332,88 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/static/fonts/material-icons.d960b795.woff2"
   },
   {
-    "revision": "f59304a7fb4d96ee0809",
-    "url": "/mutton-editor/static/js/app.69e89a11.js"
+    "revision": "b00e145e778a089ff63f",
+    "url": "/mutton-editor/static/js/app.0c732de3.js"
   },
   {
-    "revision": "b78ddbe165aa6fa36aa4",
-    "url": "/mutton-editor/static/js/chunk-06558558.63f4105e.js"
+    "revision": "ebb161f43ba712604a9c",
+    "url": "/mutton-editor/static/js/chunk-06558558.285e91a0.js"
   },
   {
-    "revision": "8340902176d7a40e12b5",
-    "url": "/mutton-editor/static/js/chunk-0b3fc8d2.c396a9b1.js"
+    "revision": "01ba750faf6302a103ac",
+    "url": "/mutton-editor/static/js/chunk-0b3fc8d2.41771c72.js"
   },
   {
-    "revision": "17a9b9bd7108a62b85c9",
-    "url": "/mutton-editor/static/js/chunk-28f30a78.daa7daac.js"
+    "revision": "2af385468cfa1303ae2d",
+    "url": "/mutton-editor/static/js/chunk-28f30a78.4749fb38.js"
   },
   {
-    "revision": "23a022bef9e38705fadd",
-    "url": "/mutton-editor/static/js/chunk-2d0af129.ccf5cf67.js"
+    "revision": "0cb6394383d499203910",
+    "url": "/mutton-editor/static/js/chunk-2d0af129.df367140.js"
   },
   {
-    "revision": "ba8340dac5f6e714adcd",
-    "url": "/mutton-editor/static/js/chunk-2d0b8b1d.226d355b.js"
+    "revision": "558babac294f4a3e6e34",
+    "url": "/mutton-editor/static/js/chunk-2d0b8b1d.c04108d2.js"
   },
   {
-    "revision": "7c08a110359f8299c4dd",
-    "url": "/mutton-editor/static/js/chunk-2d0ccb8b.9c939dce.js"
+    "revision": "e67bc10c7dffc999fdff",
+    "url": "/mutton-editor/static/js/chunk-2d0ccb8b.1536798a.js"
   },
   {
-    "revision": "24a1000b9fcb947866f9",
-    "url": "/mutton-editor/static/js/chunk-2d0d67fc.0ad9ad3c.js"
+    "revision": "4e3e13a8e7aad9d8a1dc",
+    "url": "/mutton-editor/static/js/chunk-2d0d67fc.b60bf35e.js"
   },
   {
-    "revision": "dacae829d7d6872d5c7a",
-    "url": "/mutton-editor/static/js/chunk-2d0dd602.9febb6cb.js"
+    "revision": "ac2ddc587011bc590f1c",
+    "url": "/mutton-editor/static/js/chunk-2d0dd602.a1bfedd1.js"
   },
   {
-    "revision": "9f1ac389cbf13a9d43a4",
-    "url": "/mutton-editor/static/js/chunk-2d0e97df.735d0cb8.js"
+    "revision": "654cd3c82359ad53af8b",
+    "url": "/mutton-editor/static/js/chunk-2d0e97df.42190d6c.js"
   },
   {
-    "revision": "2c1e827a01591add1e00",
-    "url": "/mutton-editor/static/js/chunk-2d208107.ba545d26.js"
+    "revision": "c654087fb06a8f55e7dc",
+    "url": "/mutton-editor/static/js/chunk-2d208107.f12e98c5.js"
   },
   {
-    "revision": "395f69b75add33bf5e99",
-    "url": "/mutton-editor/static/js/chunk-43abbaea.871397b2.js"
+    "revision": "a44f2893f7e356eb043a",
+    "url": "/mutton-editor/static/js/chunk-43abbaea.7fece2ab.js"
   },
   {
     "revision": "edd23d8d4883413e2d20",
     "url": "/mutton-editor/static/js/chunk-46503ad2.24f4c7fc.js"
   },
   {
-    "revision": "beb349a4fa0be942d6ad",
-    "url": "/mutton-editor/static/js/chunk-483795de.507699dd.js"
+    "revision": "68aaa2e7b3550699eba2",
+    "url": "/mutton-editor/static/js/chunk-483795de.f2ef1402.js"
   },
   {
     "revision": "162095d17180c4c9c535",
     "url": "/mutton-editor/static/js/chunk-4cdf5a2c.73e587ce.js"
   },
   {
-    "revision": "a2616461a056c3fd9530",
-    "url": "/mutton-editor/static/js/chunk-5785f5c0.6dd3897d.js"
+    "revision": "105e0094cc01b74d9925",
+    "url": "/mutton-editor/static/js/chunk-5785f5c0.bd422dfe.js"
   },
   {
-    "revision": "0702b15edd2a198ee9dd",
-    "url": "/mutton-editor/static/js/chunk-5f6217d7.37ecbbad.js"
+    "revision": "f99ebc98b7814fd082d7",
+    "url": "/mutton-editor/static/js/chunk-5f6217d7.f33c9cb5.js"
   },
   {
-    "revision": "d2d24ee6a19c2f7a2294",
-    "url": "/mutton-editor/static/js/chunk-63f0315a.d00c0bbe.js"
+    "revision": "e3e192953d4f1e73d328",
+    "url": "/mutton-editor/static/js/chunk-63f0315a.d8d96f1b.js"
   },
   {
-    "revision": "ddcd3e1b8e02411ae0b8",
-    "url": "/mutton-editor/static/js/chunk-77db01d4.3c841d7e.js"
+    "revision": "118720fd9d4e11f36cbc",
+    "url": "/mutton-editor/static/js/chunk-77db01d4.5c1faeb8.js"
   },
   {
-    "revision": "3ca6e5acc3190605da0c",
-    "url": "/mutton-editor/static/js/chunk-cebb4bc2.0cda7de4.js"
+    "revision": "5454b86e5d9cf9648f49",
+    "url": "/mutton-editor/static/js/chunk-cebb4bc2.f0276f5f.js"
   },
   {
-    "revision": "bdb1daf37e43398a3932",
-    "url": "/mutton-editor/static/js/chunk-dc4924d8.c1df8963.js"
+    "revision": "e72ebf2b4f9209a80581",
+    "url": "/mutton-editor/static/js/chunk-dc4924d8.24e18375.js"
   },
   {
     "revision": "a95f886a14b6cf3055ce",
@@ -2424,11 +2424,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/static/js/chunk-elementUI.d3cde55d.js"
   },
   {
-    "revision": "bfd9e86ee57908d27089",
-    "url": "/mutton-editor/static/js/chunk-libs.c3329f99.js"
+    "revision": "70d6ab90904f56979264",
+    "url": "/mutton-editor/static/js/chunk-libs.7fc1f8dc.js"
   },
   {
-    "revision": "319ee90a49d4bbf5f63e",
-    "url": "/mutton-editor/static/js/runtime.00f5ce3e.js"
+    "revision": "f80ec484de9d4cbb5d8f",
+    "url": "/mutton-editor/static/js/runtime.d7ca7d9a.js"
   }
 ]);

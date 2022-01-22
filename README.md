@@ -18,3 +18,6 @@
 **2022/01** https://mike-zheng.github.io/mutton-editor
 
 Free and Ad-free Graphics Editor for Developers.
+
+
+![app screen](img/thumbnail.png)
