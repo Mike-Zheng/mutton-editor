@@ -19,13 +19,5 @@
 
 Free and Ad-free Graphics Editor for Developers.
 
--------------------------
 
-
-
-- v1.0.1 [2022/01/22]
-  * [fix] Images url with https 
-  * [fix] Export and Clipboard
-
-- v1.0.0 [2022/01/21]
-  * [add] Initial App  
+![app screen](img/thumbnail.png)
