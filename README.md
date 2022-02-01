@@ -21,3 +21,37 @@ Free and Ad-free Graphics Editor for Developers.
 
 
 ![app screen](img/thumbnail.png)
+
+
+-------------
+
+- v1.1.0
+  * [add] Add i18n
+  * [add] Aboutme
+  * [update] App loader
+  * [fix] Error sparking screen when changing order
+  * [update] Not support page
+  * [add] pmgimg.com
+
+
+
+- v1.0.4
+  * [fix] Resize handler shap
+  * [update] Alert message when exceeding localStorage quota
+
+- v1.0.3
+  * [add] Placeholders for images
+  * [update] Enhance images with base64
+
+- v1.0.2
+  * [fix] Focus in text item after dbclick event
+  * [add] Show version
+
+- v1.0.1 [2022/01/22]
+  * [fix] Images url with https 
+  * [fix] Export and Clipboard
+  * [fix] Generate all images to base64
+
+
+- v1.0.0 [2022/01/21]
+  * [add] Initial App  
