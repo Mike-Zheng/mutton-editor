@@ -25,13 +25,20 @@ Free and Ad-free Graphics Editor for Developers.
 
 -------------
 
+- v1.1.1
+  * [add] Add i18n Ja
+  * [fix] http resource from pngimg.com
+
+
+-------------
+
 - v1.1.0
   * [add] Add i18n
   * [add] Aboutme
   * [update] App loader
   * [fix] Error sparking screen when changing order
   * [update] Not support page
-  * [add] pmgimg.com
+  * [add] pngimg.com
 
 
 
