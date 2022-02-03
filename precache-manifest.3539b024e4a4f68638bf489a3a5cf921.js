@@ -2176,7 +2176,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/thumbnail.png"
   },
   {
-    "revision": "05269cace89466e31be7c658c5368a3a",
+    "revision": "897d6e514b55a172274c3075ec6632b1",
     "url": "/mutton-editor/index.html"
   },
   {
@@ -2204,7 +2204,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/static/css/chunk-338ba3e0.9907f725.css"
   },
   {
-    "revision": "e557e024974bc71c2bb0",
+    "revision": "b12cef34f4fb8e1d5c77",
     "url": "/mutton-editor/static/css/chunk-366ef46d.22c87359.css"
   },
   {
@@ -2376,8 +2376,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/static/js/chunk-338ba3e0.ce4f0747.js"
   },
   {
-    "revision": "e557e024974bc71c2bb0",
-    "url": "/mutton-editor/static/js/chunk-366ef46d.72d5051e.js"
+    "revision": "b12cef34f4fb8e1d5c77",
+    "url": "/mutton-editor/static/js/chunk-366ef46d.fa0bb018.js"
   },
   {
     "revision": "4936654c7ff8b96cf345",
@@ -2428,7 +2428,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/static/js/chunk-libs.e35ceb06.js"
   },
   {
-    "revision": "9200a67f8cc82b1608ba",
-    "url": "/mutton-editor/static/js/runtime.c0b7a083.js"
+    "revision": "228aeae7b8e5dc464f4c",
+    "url": "/mutton-editor/static/js/runtime.67722a88.js"
   }
 ]);
