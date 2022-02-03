@@ -2176,7 +2176,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/thumbnail.png"
   },
   {
-    "revision": "897d6e514b55a172274c3075ec6632b1",
+    "revision": "05284d9a6e3dbc26559e20e49e815df3",
     "url": "/mutton-editor/index.html"
   },
   {
@@ -2188,7 +2188,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/robots.txt"
   },
   {
-    "revision": "c06b4ca463f5b7fadea2",
+    "revision": "6f477031bbc0d0ac9c79",
     "url": "/mutton-editor/static/css/app.639603b9.css"
   },
   {
@@ -2204,16 +2204,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/static/css/chunk-338ba3e0.9907f725.css"
   },
   {
-    "revision": "b12cef34f4fb8e1d5c77",
-    "url": "/mutton-editor/static/css/chunk-366ef46d.22c87359.css"
-  },
-  {
     "revision": "4936654c7ff8b96cf345",
     "url": "/mutton-editor/static/css/chunk-40ed69fa.1b547da3.css"
   },
   {
     "revision": "985e771c36303dc30f65",
     "url": "/mutton-editor/static/css/chunk-483795de.f8f2cbb9.css"
+  },
+  {
+    "revision": "0308b0a1c59480e5546c",
+    "url": "/mutton-editor/static/css/chunk-6ce0a0ed.e8ef8483.css"
   },
   {
     "revision": "d81cd6b617e414f474e1",
@@ -2332,8 +2332,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/static/fonts/material-icons.d960b795.woff2"
   },
   {
-    "revision": "c06b4ca463f5b7fadea2",
-    "url": "/mutton-editor/static/js/app.797e0cef.js"
+    "revision": "6f477031bbc0d0ac9c79",
+    "url": "/mutton-editor/static/js/app.6bdf1047.js"
   },
   {
     "revision": "b7c53562586e6588dac8",
@@ -2376,10 +2376,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/static/js/chunk-338ba3e0.ce4f0747.js"
   },
   {
-    "revision": "b12cef34f4fb8e1d5c77",
-    "url": "/mutton-editor/static/js/chunk-366ef46d.fa0bb018.js"
-  },
-  {
     "revision": "4936654c7ff8b96cf345",
     "url": "/mutton-editor/static/js/chunk-40ed69fa.f2b0bbbc.js"
   },
@@ -2394,6 +2390,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fdd676ce974f89fcf110",
     "url": "/mutton-editor/static/js/chunk-63f0315a.69ce3894.js"
+  },
+  {
+    "revision": "0308b0a1c59480e5546c",
+    "url": "/mutton-editor/static/js/chunk-6ce0a0ed.7cd36745.js"
   },
   {
     "revision": "d81cd6b617e414f474e1",
@@ -2428,7 +2428,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/static/js/chunk-libs.e35ceb06.js"
   },
   {
-    "revision": "228aeae7b8e5dc464f4c",
-    "url": "/mutton-editor/static/js/runtime.67722a88.js"
+    "revision": "2e0e69111ab51cfe5b6b",
+    "url": "/mutton-editor/static/js/runtime.8721fc8a.js"
   }
 ]);
