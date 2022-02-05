@@ -25,12 +25,15 @@ Free and Ad-free Graphics Editor for Developers.
 
 -------------
 
+
+- v1.1.2 [2022/02/05]
+  * [fix] layer order
+
+
 - v1.1.1
   * [add] Add i18n Ja
   * [fix] http resource from pngimg.com
 
-
--------------
 
 - v1.1.0
   * [add] Add i18n
