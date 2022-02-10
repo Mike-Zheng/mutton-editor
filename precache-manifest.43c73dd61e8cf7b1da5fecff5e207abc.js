@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "97f52abefa89facf93fcd9f46ab6bc06",
+    "revision": "49150036936d5feb3439be22d57f0719",
     "url": "/mutton-editor/README.md"
   },
   {
@@ -2176,7 +2176,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/thumbnail.png"
   },
   {
-    "revision": "628b23410db2240f80d79440e38cdc1d",
+    "revision": "81d624ba921c3c2964823c015484f720",
     "url": "/mutton-editor/index.html"
   },
   {
@@ -2188,7 +2188,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/robots.txt"
   },
   {
-    "revision": "4cd023d1598c2442ab92",
+    "revision": "6cba280497841c10805e",
     "url": "/mutton-editor/static/css/app.639603b9.css"
   },
   {
@@ -2332,8 +2332,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/static/fonts/material-icons.d960b795.woff2"
   },
   {
-    "revision": "4cd023d1598c2442ab92",
-    "url": "/mutton-editor/static/js/app.0f739d09.js"
+    "revision": "6cba280497841c10805e",
+    "url": "/mutton-editor/static/js/app.3002b274.js"
   },
   {
     "revision": "6780117536b604cc63a4",
@@ -2376,8 +2376,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/static/js/chunk-2d0e97df.d5e93a95.js"
   },
   {
-    "revision": "7b1276719fd93a676a9b",
-    "url": "/mutton-editor/static/js/chunk-2d208107.8c198b89.js"
+    "revision": "d2955741d9d68eb3e1db",
+    "url": "/mutton-editor/static/js/chunk-2d208107.bb479acd.js"
   },
   {
     "revision": "4f85edfd84cd815e61b0",
@@ -2428,7 +2428,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/static/js/chunk-libs.57e19e73.js"
   },
   {
-    "revision": "b8f03dc7e50fad95ebe9",
-    "url": "/mutton-editor/static/js/runtime.0d4297a3.js"
+    "revision": "ffdb2a4fed856171a247",
+    "url": "/mutton-editor/static/js/runtime.e81d5884.js"
   }
 ]);

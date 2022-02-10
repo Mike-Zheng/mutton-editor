@@ -26,6 +26,10 @@ Free and Ad-free Graphics Editor for Developers.
 -------------
 
 
+- v1.1.3 [2022/02/10]
+  * [add] frame rotation
+
+
 - v1.1.2 [2022/02/05]
   * [fix] layer order
 
