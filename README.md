@@ -25,6 +25,9 @@ Free and Ad-free Graphics Editor for Developers.
 
 -------------
 
+- v1.1.4 [2022/02/13]
+  * [fix] history state of props
+  * [update] i18n ja
 
 - v1.1.3 [2022/02/10]
   * [add] frame rotation

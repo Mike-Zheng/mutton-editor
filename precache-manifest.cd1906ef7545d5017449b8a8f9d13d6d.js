@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "49150036936d5feb3439be22d57f0719",
+    "revision": "13295348cbc34b191d970d4972589c8e",
     "url": "/mutton-editor/README.md"
   },
   {
@@ -2176,7 +2176,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/img/thumbnail.png"
   },
   {
-    "revision": "81d624ba921c3c2964823c015484f720",
+    "revision": "a6112e8364a36380b3e52725cb501f13",
     "url": "/mutton-editor/index.html"
   },
   {
@@ -2188,12 +2188,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/robots.txt"
   },
   {
-    "revision": "6cba280497841c10805e",
-    "url": "/mutton-editor/static/css/app.639603b9.css"
-  },
-  {
-    "revision": "6780117536b604cc63a4",
-    "url": "/mutton-editor/static/css/chunk-057aed7d.2bd302a5.css"
+    "revision": "67fef9ac0a45028516c6",
+    "url": "/mutton-editor/static/css/app.3d330d22.css"
   },
   {
     "revision": "4b3e9eee80b92d47c1d4",
@@ -2206,10 +2202,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6fe96a10ac3d145851e5",
     "url": "/mutton-editor/static/css/chunk-1855dc16.aba1cc9e.css"
-  },
-  {
-    "revision": "4f85edfd84cd815e61b0",
-    "url": "/mutton-editor/static/css/chunk-338ba3e0.9907f725.css"
   },
   {
     "revision": "db36ee0eb54f9adf7970",
@@ -2232,12 +2224,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/static/css/chunk-bbb4f674.e9b4b027.css"
   },
   {
+    "revision": "087a20e702f693ab95c6",
+    "url": "/mutton-editor/static/css/chunk-bde34e72.82d96b67.css"
+  },
+  {
     "revision": "48ef0459801b2da5c870",
     "url": "/mutton-editor/static/css/chunk-cebb4bc2.e3686512.css"
   },
   {
     "revision": "446f5f8a153769c52030",
     "url": "/mutton-editor/static/css/chunk-elementUI.5c89e5c1.css"
+  },
+  {
+    "revision": "fcc23873508687ee7a78",
+    "url": "/mutton-editor/static/css/chunk-f69d72c8.b3f6eaa2.css"
   },
   {
     "revision": "0274fa94ea92929f0b9f",
@@ -2332,12 +2332,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/static/fonts/material-icons.d960b795.woff2"
   },
   {
-    "revision": "6cba280497841c10805e",
-    "url": "/mutton-editor/static/js/app.3002b274.js"
-  },
-  {
-    "revision": "6780117536b604cc63a4",
-    "url": "/mutton-editor/static/js/chunk-057aed7d.9380b3bb.js"
+    "revision": "67fef9ac0a45028516c6",
+    "url": "/mutton-editor/static/js/app.a3b3486b.js"
   },
   {
     "revision": "4b3e9eee80b92d47c1d4",
@@ -2352,36 +2348,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/static/js/chunk-1855dc16.d19b3a68.js"
   },
   {
-    "revision": "ff41bf0ca8dbeeec4496",
-    "url": "/mutton-editor/static/js/chunk-2d0af129.47892a76.js"
+    "revision": "bdad3eb6a1b2d5ccbbd2",
+    "url": "/mutton-editor/static/js/chunk-2d0af129.b919a5ab.js"
   },
   {
     "revision": "a51643b8a6c98c02880e",
     "url": "/mutton-editor/static/js/chunk-2d0b8b1d.f16c0af9.js"
   },
   {
-    "revision": "3ca2cb5d85250899cb09",
-    "url": "/mutton-editor/static/js/chunk-2d0ccb8b.72f83a0a.js"
+    "revision": "2aca53d6980152009a07",
+    "url": "/mutton-editor/static/js/chunk-2d0ccb8b.0cc4cdda.js"
   },
   {
-    "revision": "0ffd45bf28c6f04c998d",
-    "url": "/mutton-editor/static/js/chunk-2d0d67fc.973a2631.js"
+    "revision": "f1c8c613951359e7610b",
+    "url": "/mutton-editor/static/js/chunk-2d0d67fc.9b7b11c5.js"
   },
   {
-    "revision": "01a22ce46cb79bf9f651",
-    "url": "/mutton-editor/static/js/chunk-2d0dd602.7ee94b46.js"
+    "revision": "9826d70b6d5b5ac5fb1c",
+    "url": "/mutton-editor/static/js/chunk-2d0dd602.3bec43dd.js"
   },
   {
-    "revision": "ed54af27aed9907a98de",
-    "url": "/mutton-editor/static/js/chunk-2d0e97df.d5e93a95.js"
+    "revision": "de155fe1e43d2e39c35c",
+    "url": "/mutton-editor/static/js/chunk-2d0e97df.e25ce08e.js"
   },
   {
-    "revision": "d2955741d9d68eb3e1db",
-    "url": "/mutton-editor/static/js/chunk-2d208107.bb479acd.js"
-  },
-  {
-    "revision": "4f85edfd84cd815e61b0",
-    "url": "/mutton-editor/static/js/chunk-338ba3e0.86a62cba.js"
+    "revision": "b58cce46bb80bb1b54f5",
+    "url": "/mutton-editor/static/js/chunk-2d208107.719ebc8c.js"
   },
   {
     "revision": "db36ee0eb54f9adf7970",
@@ -2392,8 +2384,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/static/js/chunk-4cdf5a2c.73e587ce.js"
   },
   {
-    "revision": "eb59fe63184e6deb8ec9",
-    "url": "/mutton-editor/static/js/chunk-63f0315a.20bc0bfb.js"
+    "revision": "f5312175a69b0a3f6cb0",
+    "url": "/mutton-editor/static/js/chunk-63f0315a.1226a134.js"
   },
   {
     "revision": "0de701ff372e32f82e3d",
@@ -2412,6 +2404,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/static/js/chunk-bbb4f674.c7dfb01f.js"
   },
   {
+    "revision": "087a20e702f693ab95c6",
+    "url": "/mutton-editor/static/js/chunk-bde34e72.d30bf375.js"
+  },
+  {
     "revision": "48ef0459801b2da5c870",
     "url": "/mutton-editor/static/js/chunk-cebb4bc2.75e96426.js"
   },
@@ -2424,11 +2420,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutton-editor/static/js/chunk-elementUI.0851ee19.js"
   },
   {
+    "revision": "fcc23873508687ee7a78",
+    "url": "/mutton-editor/static/js/chunk-f69d72c8.1bff9eba.js"
+  },
+  {
     "revision": "0274fa94ea92929f0b9f",
     "url": "/mutton-editor/static/js/chunk-libs.57e19e73.js"
   },
   {
-    "revision": "ffdb2a4fed856171a247",
-    "url": "/mutton-editor/static/js/runtime.e81d5884.js"
+    "revision": "1d26417498ab5c18f069",
+    "url": "/mutton-editor/static/js/runtime.b9dab987.js"
   }
 ]);

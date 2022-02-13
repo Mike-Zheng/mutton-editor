@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mutton-editor/precache-manifest.43c73dd61e8cf7b1da5fecff5e207abc.js"
+  "/mutton-editor/precache-manifest.cd1906ef7545d5017449b8a8f9d13d6d.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "mutton-editor-code"});
