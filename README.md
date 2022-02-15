@@ -12,7 +12,6 @@
 
 
 
-
 ## Mutton Editor
 
 https://mike-zheng.github.io/mutton-editor
@@ -27,10 +26,14 @@ If you have any suggestion, feel free to contact me.
 
 
 
+
+
 ![app screen](app.png)
 
 
 -------------
+
+## Changelog
 
 - v1.1.4 [2022/02/13]
   * [fix] history state of props
@@ -50,14 +53,13 @@ If you have any suggestion, feel free to contact me.
 
 
 - v1.1.0
+  * [add] resource from pngimg.com 
   * [add] Add i18n
-  * [add] Aboutme
+  * [add] About me
   * [update] App loader
   * [fix] Error sparking screen when changing order
   * [update] Not support page
-  * [add] pngimg.com
-
-
+  
 
 - v1.0.4
   * [fix] Resize handler shap
@@ -79,3 +81,5 @@ If you have any suggestion, feel free to contact me.
 
 - v1.0.0 [2022/01/21]
   * [add] Initial App  
+
+  -------------
