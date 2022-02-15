@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://mike-zheng.github.io/mutton-editor" target="_blank" rel="noopener noreferrer">
-<p align="center"><img width="120" src="img/icons/android-chrome-192x192.png" alt="mutton-editor"></p>
+<p align="center"><img width="120" src="docs/img/icons/android-chrome-192x192.png" alt="mutton-editor"></p>
 </a>
 </p>
 
@@ -15,12 +15,19 @@
 
 ## Mutton Editor
 
-**2022/01** https://mike-zheng.github.io/mutton-editor
+https://mike-zheng.github.io/mutton-editor
 
-Free and Ad-free Graphics Editor for Developers.
+> Free and Ad-free Graphics Editor for Developers
 
 
-![app screen](img/thumbnail.png)
+Mutton-editor is completely free to use. It is just for fun.
+
+If you have any suggestion, feel free to contact me.
+
+
+
+
+![app screen](app.png)
 
 
 -------------
