@@ -35,6 +35,12 @@ If you have any suggestion, feel free to contact me.
 
 ## Changelog
 
+- v1.1.5 [2022/12/12]
+  * [add] Drag and drop a image from file to canvas
+  * [add] Paste a image from the clipboard
+  * [add] Double-click to crop a image
+
+
 - v1.1.4 [2022/02/13]
   * [fix] history state of props
   * [update] i18n ja
